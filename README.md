@@ -10,6 +10,7 @@ Coding is a way of thinking, and solving problems.
 [![Python][2]][2]
 [![Swift][3]][3]
 [![JavaScript][4]][4]
+[![MySQL][5]][5]
 
 
 
@@ -17,4 +18,5 @@ Coding is a way of thinking, and solving problems.
 [2]: https://custom-icon-badges.demolab.com/badge/-Python-FEFE64?style=for-the-badge&logoColor=blue&logo=Python
 [3]: https://custom-icon-badges.demolab.com/badge/-Swift-orange?style=for-the-badge&logoColor=white&logo=Swift
 [4]: https://custom-icon-badges.demolab.com/badge/-JavaScript-FEFE64?style=for-the-badge&logoColor=black&logo=JavaScript
+[5]: https://custom-icon-badges.demolab.com/badge/-MySQL-00FFFF?style=for-the-badge&logoColor=white&logo=MySQL
 
