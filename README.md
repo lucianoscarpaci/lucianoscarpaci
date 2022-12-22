@@ -19,6 +19,7 @@ Coding is a way of thinking, and solving problems.
 [![Bootstrap][11]][11]
 [![Swift][12]][12]
 [![iOS][13]][13]
+[![Xcode][14]][14]
 
 [1]: https://custom-icon-badges.demolab.com/badge/-C/C++-blue?style=for-the-badge&logoColor=white&logo=c 
 [2]: https://custom-icon-badges.demolab.com/badge/-Python-FEFE64?style=for-the-badge&logoColor=blue&logo=Python 
@@ -33,6 +34,7 @@ Coding is a way of thinking, and solving problems.
 [4]: https://custom-icon-badges.demolab.com/badge/-Bash-white?style=for-the-badge&logoColor=black&logo=gnubash
 [5]: https://custom-icon-badges.demolab.com/badge/-Homebrew-FFDF7F?style=for-the-badge&logoColor=black&logo=Homebrew
 [6]: https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-white?style=for-the-badge&logoColor=blue&logo=visualstudiocode
+[14]: https://custom-icon-badges.demolab.com/badge/-Xcode-blue?style=for-the-badge&logoColor=white&logo=xcode
 
 
 
