@@ -14,6 +14,7 @@ Coding is a way of thinking, and solving problems.
 [![HTML5][6]][6]
 [![CSS3][7]][7]
 [![Bootstrap][8]][8]
+[![Theos][9]][9]
 
 
 
@@ -26,4 +27,5 @@ Coding is a way of thinking, and solving problems.
 [6]: https://custom-icon-badges.demolab.com/badge/-HTML-orange?style=for-the-badge&logoColor=black&logo=HTML5
 [7]: https://custom-icon-badges.demolab.com/badge/-CSS-blue?style=for-the-badge&logoColor=black&logo=CSS3
 [8]: https://custom-icon-badges.demolab.com/badge/-Bootstrap-8A00FF?style=for-the-badge&logoColor=white&logo=Bootstrap
+[9]: https://custom-icon-badges.demolab.com/badge/-Theos-8A00FF?style=for-the-badge&logoColor=white&logo=$
 
