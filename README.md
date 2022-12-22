@@ -14,7 +14,7 @@ Coding is a way of thinking, and solving problems.
 
 
 [1]: https://custom-icon-badges.demolab.com/badge/-C/C++-blue?style=for-the-badge&logoColor=white&logo=c
-[2]: https://custom-icon-badges.demolab.com/badge/-Python-FEFE64?style=for-the-badge&logoColor=black&logo=Python
+[2]: https://custom-icon-badges.demolab.com/badge/-Python-FEFE64?style=for-the-badge&logoColor=blue&logo=Python
 [3]: https://custom-icon-badges.demolab.com/badge/-Swift-orange?style=for-the-badge&logoColor=white&logo=Swift
 [4]: https://custom-icon-badges.demolab.com/badge/-JavaScript-FEFE64?style=for-the-badge&logoColor=black&logo=JavaScript
 
