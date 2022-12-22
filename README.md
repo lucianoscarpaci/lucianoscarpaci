@@ -8,9 +8,11 @@ Coding is a way of thinking, and solving problems.
 ### Languages and Tools📠
 [![C][1]][1]
 [![Python][2]][2]
+[![Swift][3]][3]
 
 
 [1]: https://custom-icon-badges.demolab.com/badge/-C/C++-blue?style=for-the-badge&logoColor=white&logo=c
-[2]: https://custom-icon-badges.demolab.com/badge/-Python-FEFE64?style=for-the-badge&logoColor=white&logo=Python
+[2]: https://custom-icon-badges.demolab.com/badge/-Python-FEFE64?style=for-the-badge&logoColor=black&logo=Python
+[3]: https://custom-icon-badges.demolab.com/badge/-Swift-orange?style=for-the-badge&logoColor=white&logo=Swift
 
 
