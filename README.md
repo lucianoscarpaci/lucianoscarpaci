@@ -32,6 +32,6 @@ Coding is a way of thinking, and solving problems.
 [8]: https://custom-icon-badges.demolab.com/badge/-CSS-blue?style=for-the-badge&logoColor=black&logo=CSS3
 [9]: https://custom-icon-badges.demolab.com/badge/-Bootstrap-8A00FF?style=for-the-badge&logoColor=white&logo=Bootstrap
 [10]: https://custom-icon-badges.demolab.com/badge/-Git-orange?style=for-the-badge&logoColor=black&logo=Git
-[11]: https://custom-icon-badges.demolab.com/badge/-GNU-Bash-white?style=for-the-badge&logoColor=black&logo=gnubash
+[11]: https://custom-icon-badges.demolab.com/badge/-Bash-white?style=for-the-badge&logoColor=black&logo=gnubash
 
 
