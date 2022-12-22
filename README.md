@@ -12,7 +12,7 @@ Coding is a way of thinking, and solving problems.
 [![JavaScript][4]][4]
 [![MySQL][5]][5]
 [![HTML5][6]][6]
-[![CSS3][6]][6]
+[![CSS3][7]][7]
 
 
 
