@@ -12,6 +12,7 @@ Coding is a way of thinking, and solving problems.
 [![JavaScript][4]][4]
 [![MySQL][5]][5]
 [![HTML5][6]][6]
+[![CSS3][6]][6]
 
 
 
@@ -22,4 +23,5 @@ Coding is a way of thinking, and solving problems.
 [4]: https://custom-icon-badges.demolab.com/badge/-JavaScript-FEFE64?style=for-the-badge&logoColor=black&logo=JavaScript
 [5]: https://custom-icon-badges.demolab.com/badge/-MySQL-00FFFF?style=for-the-badge&logoColor=black&logo=MySQL
 [6]: https://custom-icon-badges.demolab.com/badge/-HTML-orange?style=for-the-badge&logoColor=black&logo=HTML5
+[7]: https://custom-icon-badges.demolab.com/badge/-CSS-blue?style=for-the-badge&logoColor=black&logo=HTML5
 
