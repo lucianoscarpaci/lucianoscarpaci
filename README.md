@@ -17,10 +17,7 @@ Coding is a way of thinking, and solving problems.
 [![Bootstrap][9]][9]
 [![Git][10]][10]
 [![GNU Bash][11]][11]
-
-
-
-
+[![Visual Studio Code][12]][12]
 
 [1]: https://custom-icon-badges.demolab.com/badge/-C/C++-blue?style=for-the-badge&logoColor=white&logo=c 
 [2]: https://custom-icon-badges.demolab.com/badge/-Python-FEFE64?style=for-the-badge&logoColor=blue&logo=Python 
@@ -33,5 +30,6 @@ Coding is a way of thinking, and solving problems.
 [9]: https://custom-icon-badges.demolab.com/badge/-Bootstrap-8A00FF?style=for-the-badge&logoColor=white&logo=Bootstrap
 [10]: https://custom-icon-badges.demolab.com/badge/-Git-orange?style=for-the-badge&logoColor=black&logo=Git
 [11]: https://custom-icon-badges.demolab.com/badge/-Bash-white?style=for-the-badge&logoColor=black&logo=gnubash
+[12]: https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-white?style=for-the-badge&logoColor=blue&logo=visualstudiocode
 
 
