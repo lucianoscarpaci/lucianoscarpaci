@@ -3,7 +3,8 @@
         <img src="https://user-images.githubusercontent.com/16402942/209362180-afdbd938-7082-4f03-a7d1-655ef9777fc1.png" alt="Luciano Scarpaci" /></a>
     </p>
 I have done projects with teamwork in AI, mobile development, and applied cryptography.
-<h2>Languages and Tools📠</h2>
+<details>
+    <summary><h2>Languages and Tools📠</h2></summary>
 <p align="left">
     <a href="https://www.tutorialspoint.com/cplusplus/index.htm">
         <img alt="C/C++ references" title="C/C++ references" src="https://custom-icon-badges.demolab.com/badge/-C/C++-blue?style=for-the-badge&logoColor=white&logo=c"/></a>
@@ -37,6 +38,7 @@ I have done projects with teamwork in AI, mobile development, and applied crypto
         <img alt="Featured - Apple Developer Documentation" title="Featured - Apple Developer Documentation" src="https://custom-icon-badges.demolab.com/badge/-iOS-C0C0C0?style=for-the-badge&logoColor=black&logo=iOS"></a>
     <a href="https://developer.apple.com/documentation/xcode">
         <img alt="Xcode - Apple Developer Documentaton" title="Xcode Apple Developer Documentation" src="https://custom-icon-badges.demolab.com/badge/-Xcode-blue?style=for-the-badge&logoColor=white&logo=xcode"></a>
+</details>
 
 
 
