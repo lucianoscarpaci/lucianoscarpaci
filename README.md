@@ -7,7 +7,7 @@
 I have done projects with teamwork in AI, mobile development, and applied cryptography.
 \
 Coding is a way of thinking, and solving problems.
-### Languages and Tools📠
+<h1>Languages and Tools📠</h1>
 <p align="left">
     <a href="https://www.tutorialspoint.com/cplusplus/index.htm">
         <img alt="C/C++ references" title="C/C++ references" src="https://custom-icon-badges.demolab.com/badge/-C/C++-blue?style=for-the-badge&logoColor=white&logo=c"/></a>
