@@ -1,6 +1,7 @@
  <p align="center">
-<h3> 🧔🏻 Luciano Scarpaci </h3>
-
+    <a href="https://github.com/lucianoscarpaci">
+        <img src="https://user-images.githubusercontent.com/16402942/209362180-afdbd938-7082-4f03-a7d1-655ef9777fc1.png" alt="Luciano Scarpaci" /></a>
+    </p>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer%20Scientist💻🧔🏻;📲Mobile%20Developer;💻Web%20Technologies;)](https://git.io/typing-svg)
 \
 I have done projects with teamwork in AI, mobile development, and applied cryptography.
