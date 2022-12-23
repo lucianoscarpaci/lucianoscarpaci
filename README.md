@@ -3,7 +3,7 @@
         <img src="https://user-images.githubusercontent.com/16402942/209362180-afdbd938-7082-4f03-a7d1-655ef9777fc1.png" alt="Luciano Scarpaci" /></a>
     </p>
 I have done projects with teamwork in AI, mobile development, and applied cryptography.
-<h1>Languages and Tools📠</h1>
+<h2>Languages and Tools📠</h2>
 <p align="left">
     <a href="https://www.tutorialspoint.com/cplusplus/index.htm">
         <img alt="C/C++ references" title="C/C++ references" src="https://custom-icon-badges.demolab.com/badge/-C/C++-blue?style=for-the-badge&logoColor=white&logo=c"/></a>
