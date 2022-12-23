@@ -2,6 +2,7 @@
 
 ### **`(Computer Scientist💻🧔🏻/📲Mobile Developer/💻Web Technologies)`**
 \
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer Scientist💻🧔🏻;📲Mobile Developer;💻Web Technologies;)](https://git.io/typing-svg)
 I have done projects with teamwork in AI, mobile development, and applied cryptography.
 \
 Coding is a way of thinking, and solving problems.
