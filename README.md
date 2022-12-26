@@ -47,7 +47,7 @@ I have done projects with teamwork in AI, mobile development, and applied crypto
     <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
     <p>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img alt="Github streaks status" title="Github streaks status" 
+        <img alt="Github streaks status" title="Github streaks status" title="Github streak status"
         src="https://streak-status.demolab.com?user=lucianoscarpaci&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly"></a>
     </p>
 
