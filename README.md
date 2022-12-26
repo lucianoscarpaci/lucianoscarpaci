@@ -5,7 +5,7 @@
 I have done projects with teamwork in AI, mobile development, and applied cryptography.
 <p align="center">
     <a href="https://github.com/Gowee/nyancat-svg">
-        <img src="https://github.com/Gowee/nyancat-svg/nyancat.svg" alt="animation" /></a>
+        <img src="https://raw.githubusercontent.com/Gowee/nyancat-svg/main/nyancat.svg" alt="animation" /></a>
     </p>
 <details>
     <summary><h2>Languages and Tools📠</h2></summary>
