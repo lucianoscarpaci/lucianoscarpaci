@@ -48,6 +48,12 @@ I have done projects with teamwork in AI, mobile development, and applied crypto
         <img alt="Github streaks status" title="Github streaks status" title="Github streak status"
         src="https://streak-stats.demolab.com/?user=lucianoscarpaci&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly"></a>
     </p>
+    <h3> Github profile status ⚛️</h3>
+    <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="lucianoscarpaci's profile status" title="lucianoscarpaci's profile status"
+        src="https://github-readme-stats.vercel.app/api/?username=lucianoscarpaci&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"></a>
+    </p>
 
 </details>
     
