@@ -2,11 +2,11 @@
     <a href="https://github.com/lucianoscarpaci">
         <img src="https://user-images.githubusercontent.com/16402942/209362180-afdbd938-7082-4f03-a7d1-655ef9777fc1.png" alt="Luciano Scarpaci" /></a>
     </p>
-I have done projects with teamwork in AI, mobile development, and applied cryptography.
-<p align="center">
-    <a href="https://github.com/Gowee/nyancat-svg">
-        <img src="https://raw.githubusercontent.com/Gowee/nyancat-svg/main/nyancat.svg" alt="animation" /></a>
-    </p>
+<details>
+    <summary><h2>Bio📝<h2></summary>
+    I have done projects with teamwork in AI, mobile development, and applied cryptography.
+</details>
+
 <details>
     <summary><h2>Languages and Tools📠</h2></summary>
 <p align="left">
