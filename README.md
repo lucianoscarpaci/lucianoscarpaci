@@ -46,13 +46,13 @@
 
 <details>
     <summary><h2>Coding Activity ⚛️</h2></summary>
-    <h3> Github streaks status ⚛️</h3>
+    <h3> GitHub streaks status ⚛️</h3>
     <p>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img alt="Github streaks status" title="Github streaks status" title="Github streak status"
         src="https://streak-stats.demolab.com/?user=lucianoscarpaci&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly"></a>
     </p>
-    <h3> Github profile status ⚛️</h3>
+    <h3> GitHub profile status ⚛️</h3>
     <p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="lucianoscarpaci's profile status" title="lucianoscarpaci's profile status"
@@ -63,6 +63,7 @@
     </p>
 
 </details>
+
     
     
 
