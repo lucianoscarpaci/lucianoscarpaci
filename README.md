@@ -43,8 +43,6 @@ I have done projects with teamwork in AI, mobile development, and applied crypto
 <details>
     <summary><h2> 📊 Coding Activity </h2></summary>
     <h3> Github streaks status </h3>
-
-    <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
     <p>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img alt="Github streaks status" title="Github streaks status" title="Github streak status"
