@@ -40,6 +40,20 @@ I have done projects with teamwork in AI, mobile development, and applied crypto
         <img alt="Xcode - Apple Developer Documentaton" title="Xcode Apple Developer Documentation" src="https://custom-icon-badges.demolab.com/badge/-Xcode-blue?style=for-the-badge&logoColor=white&logo=xcode"></a>
 </details>
 
+<details>
+    <summary><h2> 📊 Coding Activity </h2></summary>
+
+    <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <p>
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img alt="Github streaks status" title="Github streaks status" 
+        src="https://streak-status.demolab.com?user=lucianoscarpaci&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly"></a>
+    </p>
+
+</details>
+    
+    
+
 
 
 
