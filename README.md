@@ -53,6 +53,9 @@ I have done projects with teamwork in AI, mobile development, and applied crypto
         <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="lucianoscarpaci's profile status" title="lucianoscarpaci's profile status"
         src="https://github-readme-stats.vercel.app/api/?username=lucianoscarpaci&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats/">
+        <img alt="lucianoscarpaci's Languages" title="lucianoscarpaci's Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoscarpaci&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"></a>
     </p>
 
 </details>
