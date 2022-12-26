@@ -9,6 +9,7 @@
 
 <details>
     <summary><h2>Languages and Tools📠</h2></summary>
+    <h3>Programming and Software 💾</h3>
 <p align="left">
     <a href="https://www.tutorialspoint.com/cplusplus/index.htm">
         <img alt="C/C++ references" title="C/C++ references" src="https://custom-icon-badges.demolab.com/badge/-C/C++-blue?style=for-the-badge&logoColor=white&logo=c"/></a>
