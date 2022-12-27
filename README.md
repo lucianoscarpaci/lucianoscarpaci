@@ -61,7 +61,7 @@
 [![nodejs][4]][4]
 
 [1]: https://custom-icon-badges.demolab.com/badge/-MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=black
-[2]: https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black
+[2]: https://custom-icon-badges.demolab.com/badge/-Express-FEFE64?style=for-the-badge&logo=express&logoColor=black
 [3]: https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black
 [4]: https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black
 
