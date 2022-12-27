@@ -54,7 +54,18 @@
     <br>
     <img alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
     <br>
-    </p>
+
+[![mongodb][1]][1]
+[![express][2]][2]
+[![react][3]][3]
+[![nodejs][4]][4]
+
+[1]: https://custom-icon-badges.demolab.com/badge/-MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=black
+[2]: https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black
+[3]: https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black
+[4]: https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black
+
+</p>
           
 
 </details>
