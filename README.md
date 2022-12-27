@@ -47,6 +47,9 @@
     <h3>Full Stack 💾</h3>
     <p>
     <img alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    <a href="https://www.mongodb.com/docs/">
+        <img alt="MongoDB Documentation" title="MongoDB Documentation" 
+        src="https://custom-icon-badges.demolab.com/badge/-MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=black"></a>
     <br>
     <img alt="express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <br>
