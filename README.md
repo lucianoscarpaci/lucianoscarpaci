@@ -2,13 +2,13 @@
     <a href="https://github.com/lucianoscarpaci">
         <img src="https://user-images.githubusercontent.com/16402942/209362180-afdbd938-7082-4f03-a7d1-655ef9777fc1.png" alt="Luciano Scarpaci" /></a>
     </p>
-<details>
-    <summary><h2>Bio📝<h2></summary>
+<div>
+    <h2>Bio📝<h2>
     👨‍💻 I am currently diving into the realms of computer vision 📸 and deep learning 🧠 with an exciting project in progress! I'm also delving into machine learning for object localization 🌐. With experience in web development 🌐, mobile development 📱, artificial intelligence 🤖, cryptographic engineering 🔐, robotics 🤖, and more, I bring a diverse skill set to the table. Passionate about technology 🚀 and always seeking new challenges, I thrive on continuous learning 📚 and eagerly embrace new technologies and opportunities. 💡🌟 
-</details>
+</div>
 
-<details>
-    <summary><h2>Languages and Tools📠</h2></summary>
+<div>
+    <h2>Languages and Tools📠</h2>
     <h3>Programming and Software 💾</h3>
 <p align="left">
     <a href="https://www.tutorialspoint.com/cplusplus/index.htm">
@@ -96,17 +96,17 @@
 </p>
           
 
-</details>
+</div>
 
-<details>
-    <summary><h2>Coding Activity ⚛️</h2></summary>
+<div>
+    <h2>Coding Activity ⚛️</h2>
     <h3> GitHub streaks status ⚛️</h3>
     <p>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img alt="Github streaks status" title="Github streaks status" title="Github streak status"
         src="https://streak-stats.demolab.com/?user=lucianoscarpaci&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly"></a>
     </p>
-</details>
+</div>
 
     
     
