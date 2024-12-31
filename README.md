@@ -4,7 +4,7 @@
     </p>
 <div>
     <h2>Bio📝<h2>
-    👨‍💻 I am currently diving into the realms of computer vision 📸 and deep learning 🧠 with an exciting project in progress! I'm also delving into machine learning for object localization 🌐. With experience in web development 🌐, mobile development 📱, artificial intelligence 🤖, cryptographic engineering 🔐, robotics 🤖, and more, I bring a diverse skill set to the table. Passionate about technology 🚀 and always seeking new challenges, I thrive on continuous learning 📚 and eagerly embrace new technologies and opportunities. 💡🌟 
+    <p> 👨‍💻 I am currently diving into the realms of computer vision 📸 and deep learning 🧠 with an exciting project in progress! I'm also delving into machine learning for object localization 🌐. With experience in web development 🌐, mobile development 📱, artificial intelligence 🤖, cryptographic engineering 🔐, robotics 🤖, and more, I bring a diverse skill set to the table. Passionate about technology 🚀 and always seeking new challenges, I thrive on continuous learning 📚 and eagerly embrace new technologies and opportunities. 💡🌟 </p>
 </div>
 
 <div>
