@@ -43,6 +43,34 @@
         <img alt="Featured - Apple Developer Documentation" title="Featured - Apple Developer Documentation" src="https://custom-icon-badges.demolab.com/badge/-iOS-C0C0C0?style=for-the-badge&logoColor=black&logo=iOS"></a>
     <a href="https://developer.apple.com/documentation/xcode">
         <img alt="Xcode - Apple Developer Documentaton" title="Xcode Apple Developer Documentation" src="https://custom-icon-badges.demolab.com/badge/-Xcode-blue?style=for-the-badge&logoColor=white&logo=xcode"></a>
+    <a href="https://www.ruby-lang.org/en/documentation/">
+        <img alt="Ruby docs" title="Ruby docs" src="https://custom-icon-badges.demolab.com/badge/-Ruby-CC342D?style=for-the-badge&logoColor=white&logo=ruby"/></a>
+    <a href="https://golang.org/doc/">
+        <img alt="Go docs" title="Go docs" src="https://custom-icon-badges.demolab.com/badge/-Go-29BEB0?style=for-the-badge&logoColor=white&logo=go"/></a>
+    <a href="https://www.php.net/docs.php">
+        <img alt="PHP docs" title="PHP docs" src="https://custom-icon-badges.demolab.com/badge/-PHP-777BB4?style=for-the-badge&logoColor=white&logo=php"/></a>
+    <a href="https://www.java.com/en/download/help/index.html">
+        <img alt="Java docs" title="Java docs" src="https://custom-icon-badges.demolab.com/badge/-Java-007396?style=for-the-badge&logoColor=white&logo=java"/></a>
+    <a href="https://www.typescriptlang.org/docs/">
+        <img alt="TypeScript docs" title="TypeScript docs" src="https://custom-icon-badges.demolab.com/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript"/></a>
+    <a href="https://www.docker.com/get-started">
+        <img alt="Docker docs" title="Docker docs" src="https://custom-icon-badges.demolab.com/badge/-Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker"/></a>
+    <a href="https://www.rust-lang.org/learn">
+        <img alt="Rust docs" title="Rust docs" src="https://custom-icon-badges.demolab.com/badge/-Rust-black?style=for-the-badge&logoColor=white&logo=rust"/></a>
+    <a href="https://www.scala-lang.org/documentation/">
+        <img alt="Scala docs" title="Scala docs" src="https://custom-icon-badges.demolab.com/badge/-Scala-DC322F?style=for-the-badge&logoColor=white&logo=scala"/></a>
+    <a href="https://www.kotlinlang.org/docs/home.html">
+        <img alt="Kotlin docs" title="Kotlin docs" src="https://custom-icon-badges.demolab.com/badge/-Kotlin-0095D5?style=for-the-badge&logoColor=white&logo=kotlin"/></a>
+    <a href ="https://www.tensorflow.org/">
+        <img alt="TensorFlow docs" title="TensorFlow docs" src="https://custom-icon-badges.demolab.com/badge/-TensorFlow-FF6F00?style=for-the-badge&logoColor=white&logo=tensorflow"/></a>
+    <a href="https://pytorch.org/docs/stable/index.html">
+        <img alt="PyTorch docs" title="PyTorch docs" src="https://custom-icon-badges.demolab.com/badge/-PyTorch-EE4C2C?style=for-the-badge&logoColor=white&logo=pytorch"/></a>
+    <a href="https://opencv.org/">
+        <img alt="OpenCV docs" title="OpenCV docs" src="https://custom-icon-badges.demolab.com/badge/-OpenCV-5C3EE8?style=for-the-badge&logoColor=white&logo=opencv"/></a>
+    <a href="https://www.raspberrypi.org/documentation/">
+        <img alt="Raspberry Pi docs" title="Raspberry Pi docs" src="https://custom-icon-badges.demolab.com/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logoColor=white&logo=raspberrypi"/></a>
+    <a href="https://www.arduino.cc/reference/en/">
+        <img alt="Arduino docs" title="Arduino docs" src="https://custom-icon-badges.demolab.com/badge/-Arduino-00979D?style=for-the-badge&logoColor=white&logo=arduino"/></a>
     </p>
     <h3>Full Stack 💾</h3>
     <p>
