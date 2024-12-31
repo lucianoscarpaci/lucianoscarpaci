@@ -1,9 +1,12 @@
+ <div>
  <p align="center">
     <a href="https://github.com/lucianoscarpaci">
         <img src="https://user-images.githubusercontent.com/16402942/209362180-afdbd938-7082-4f03-a7d1-655ef9777fc1.png" alt="Luciano Scarpaci" /></a>
     </p>
+</div>
 <div>
-    <h2>Bio📝<h2>
+    <h1 align="center">👋 Hi, I'm Luciano Scarpaci!</h1>
+    <h3>Bio📝<h3>
     <h4> 👨‍💻 I am currently diving into the realms of computer vision 📸 and deep learning 🧠 with an exciting project in progress! I'm also delving into machine learning for object localization 🌐. With experience in web development 🌐, mobile development 📱, artificial intelligence 🤖, cryptographic engineering 🔐, robotics 🤖, and more, I bring a diverse skill set to the table. Passionate about technology 🚀 and always seeking new challenges, I thrive on continuous learning 📚 and eagerly embrace new technologies and opportunities. 💡🌟 </h4>
 </div>
 
