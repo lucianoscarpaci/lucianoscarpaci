@@ -113,12 +113,17 @@
     <h2> Credly 🏅</h2>
     <h3> Badges earned 🏅</h3>
     <!--START_SECTION:badges-->
-    <!--END_SECTION:badges-->
+    
 
 [![Deep Learning Essentials with Keras](https://images.credly.com/size/110x110/images/91de936a-1322-446d-9ea6-949d78c57428/image.png)](http://www.credly.com/badges/8034c13a-a661-421b-82ef-18d78adae91a "Deep Learning Essentials with Keras")
 [![Advanced Deep Learning Specialist](https://images.credly.com/size/110x110/images/3e91c6f6-1d05-4b40-9005-4344e35edaff/Coursera_20Advanced_20Deep_20Learning_20Specialist.png)](http://www.credly.com/badges/f71080ea-a607-4c2e-82a6-040458f6e0d2 "Advanced Deep Learning Specialist")
 [![Introduction to Neural Networks with PyTorch](https://images.credly.com/size/110x110/images/335a694d-1fc4-4c83-a467-f140862a0a1e/Coursera_20Introduction_20to_20Neural_20Networks_20with_20PyTorch.png)](http://www.credly.com/badges/f7dff4d7-fa47-4ff8-bba0-2044f1643feb "Introduction to Neural Networks with PyTorch")
 [![IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate](https://images.credly.com/size/110x110/images/973d7ca2-c74e-4f2c-8be8-80b32bbe18f3/Coursera_20IBM_20Deep_20Learning_20with_20PyTorch_20Keras_20and_20Tensorflow_20Prof_20Cert.png)](http://www.credly.com/badges/c27ff6fd-97ea-431c-b1bc-2d096d7d8bd7 "IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate")
+    <!--END_SECTION:badges-->
+</div>
+<div>
+    <h2> Certificates 🏆</h2>
+    <h3> Certificates earned ⭐️</h3>
 
 </div>
 
