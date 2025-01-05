@@ -112,10 +112,8 @@
 <div>
     <h2> Credly 🏅</h2>
     <h3> Badges earned 🏅</h3>
-    <p>
     <!--START_SECTION:badges-->
     <!--END_SECTION:badges-->
-    </p>
 </div>
 
     
