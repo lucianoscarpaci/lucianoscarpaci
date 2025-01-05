@@ -109,6 +109,14 @@
         src="https://streak-stats.demolab.com/?user=lucianoscarpaci&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly"></a>
     </p>
 </div>
+<div>
+    <h2> Credly 🏅</h2>
+    <h3> Badges earned 🏅</h3>
+    <p>
+    <!--START_SECTION:badges-->
+    <!--END_SECTION:badges-->
+    </p>
+</div>
 
     
     
