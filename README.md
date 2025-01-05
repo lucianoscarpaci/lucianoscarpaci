@@ -124,7 +124,9 @@
 <div>
     <h2> Certificates 🏆</h2>
     <h3> Certificates earned ⭐️</h3>
-
+<p align="left">
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20-%20Intro%20to%20Machine%20Learning.png" alt="Intro to Machine Learning" width="110px" height="110px" />
+</p>
 </div>
 
     
