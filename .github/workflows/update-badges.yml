@@ -1,0 +1,21 @@
+name: Update badges
+
+on:
+  workflow_dispatch: # run manually
+  schedule:
+    # Runs at 1am UTC on Monday
+    - cron: "0 1 * * 1"
+
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@2.3.0
+        with:
+          CREDLY_SORT: POPULAR
+          CREDLY_USER: ${{ secrets.CREDLY_USER }}
