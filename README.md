@@ -130,6 +130,7 @@
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20cybersec.png" alt="Cybersecurity" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20swiftdev.png" alt="iOS Developer" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20FZE6CAF6J9EV.png" alt="ARM Cortex-M Processors Overview" width="110px" height="110px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20V41NHQJNM137.png" alt="Google Cloud Big Data and Machine Learning Fundamentals" width="110px" height="110px" />
 </p>
 </div>
 
