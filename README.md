@@ -99,16 +99,6 @@
           
 
 </div>
-
-<div>
-    <h2>Coding Activity ⚛️</h2>
-    <h3> GitHub streaks status ⚛️</h3>
-    <p>
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img alt="Github streaks status" title="Github streaks status" title="Github streak status"
-        src="https://streak-stats.demolab.com/?user=lucianoscarpaci&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly"></a>
-    </p>
-</div>
 <div>
     <h2> Credly 🏅</h2>
     <h3> Badges earned 🏅</h3>
