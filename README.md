@@ -122,6 +122,7 @@
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20FZE6CAF6J9EV.png" alt="ARM Cortex-M Processors Overview" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20V2Y91PLDWC4K.png" alt="Armv8-M Architecture Fundamentals" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20V41NHQJNM137.png" alt="Google Cloud Big Data and Machine Learning Fundamentals" width="110px" height="110px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20283ML4GK1EH8.png" alt="Modernizing Data Lakes and Data Warehouses with Google Cloud" width="110px" height="110px" />
 </p>
 </div>
 
