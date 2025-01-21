@@ -127,7 +127,7 @@
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20COIFYOG37FKW.png" alt="Digital Transformation with Google Cloud" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20KE5XYLGNQP60.png" alt="Exploring Data Transformation with Google Cloud" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20AUFM49M8N73G.png" alt="Innovating with Google Cloud Artifical Intelligence" width="110px" height="110px" />
-    <img src="https://github.com/lucianoscarpaci/lucianoscarpaci/blob/95cfeb6fa11e26d08b232c289fe409dc49d3749d/Certificates/Coursera%20M1E1H49S21CE.png" alt="Modernize Infrastructure and Applications with Google Cloud" width="110px" height="110px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20M1E1H49S21CE.png" alt="Modernize Infrastructure and Applications with Google Cloud" width="110px" height="110px" />
 </p>
 </div>
 
