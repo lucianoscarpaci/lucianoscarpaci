@@ -73,10 +73,6 @@
         <img alt="Raspberry Pi docs" title="Raspberry Pi docs" src="https://custom-icon-badges.demolab.com/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logoColor=white&logo=raspberrypi"/></a>
     <a href="https://www.arduino.cc/reference/en/">
         <img alt="Arduino docs" title="Arduino docs" src="https://custom-icon-badges.demolab.com/badge/-Arduino-00979D?style=for-the-badge&logoColor=white&logo=arduino"/></a>
-    <a href="https://nixos.org/learn.html">
-        <img alt="Nix docs" title="Nix docs" src="https://custom-icon-badges.demolab.com/badge/-Nix-7F5AB6?style=for-the-badge&logoColor=white&logo=nix"/></a>
-    <a href="https://asdf-vm.com/#/core-manage-asdf">
-        <img alt="asdf docs" title="asdf docs" src="https://custom-icon-badges.demolab.com/badge/-asdf-FF4B52?style=for-the-badge&logoColor=white&logo=asdf"/></a>
     <a href="https://www.haskell.org/documentation/">
         <img alt="Haskell docs" title="Haskell docs" src="https://custom-icon-badges.demolab.com/badge/-Haskell-5D4F85?style=for-the-badge&logoColor=white&logo=haskell"/></a>
     </p>
