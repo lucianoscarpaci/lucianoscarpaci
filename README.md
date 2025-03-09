@@ -77,6 +77,8 @@
         <img alt="Nix docs" title="Nix docs" src="https://custom-icon-badges.demolab.com/badge/-Nix-7F5AB6?style=for-the-badge&logoColor=white&logo=nix"/></a>
     <a href="https://asdf-vm.com/#/core-manage-asdf">
         <img alt="asdf docs" title="asdf docs" src="https://custom-icon-badges.demolab.com/badge/-asdf-FF4B52?style=for-the-badge&logoColor=white&logo=asdf"/></a>
+    <a href="https://www.haskell.org/documentation/">
+        <img alt="Haskell docs" title="Haskell docs" src="https://custom-icon-badges.demolab.com/badge/-Haskell-5D4F85?style=for-the-badge&logoColor=white&logo=haskell"/></a>
     </p>
     <h3>Full Stack 💾</h3>
     <p>
