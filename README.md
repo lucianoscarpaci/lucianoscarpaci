@@ -98,7 +98,7 @@
         <img alt="Node.js" title="Node.js" src="https://custom-icon-badges.demolab.com/badge/-Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=4DB33D"></a>
     <br>
     <a href="github-readme-stats.vercel.app">
-        <img alt="Luciano's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=7&theme=tokyonight" style="max-width: 100%;" /></a>
+        <img alt="Luciano's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=Jupyter-Notebook" style="max-width: 100%;" /></a>
     <br>
 </p>
           
@@ -138,10 +138,3 @@
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20R9FA9C2F2RXA.png" alt="Google Cloud Digital Leader Training" width="110px" height="110px" />
 </p>
 </div>
-
-    
-    
-
-
-
-
