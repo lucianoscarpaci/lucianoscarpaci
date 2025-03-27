@@ -5,13 +5,13 @@
     </p>
 </div>
 <div>
-    <h3>Bio📝<h3>
-    <h4> 👨‍💻 I am currently diving into the realms of computer vision 📸 and deep learning 🧠 with an exciting project in progress! I'm also delving into machine learning for object localization 🌐. With experience in web development 🌐, mobile development 📱, artificial intelligence 🤖, cryptographic engineering 🔐, robotics 🤖, and more, I bring a diverse skill set to the table. Passionate about technology 🚀 and always seeking new challenges, I thrive on continuous learning 📚 and eagerly embrace new technologies and opportunities. 💡🌟 </h4>
+    <h3>📝 Bio<h3>
+    <h4> I am currently diving into the realms of computer vision and deep learning with an exciting project in progress! I'm also delving into machine learning for object localization. With experience in web development, mobile development, artificial intelligence, cryptographic engineering, robotics, and more, I bring a diverse skill set to the table. Passionate about technology and always seeking new challenges, I thrive on continuous learning and eagerly embrace new technologies and opportunities. 💡🌟 </h4>
 </div>
 
 <div>
-    <h2>Languages and Tools📠</h2>
-    <h3>Programming and Software 💾</h3>
+    <h2>📠 Languages and Tools </h2>
+    <h3>💾 Programming and Software </h3>
 <p align="left">
     <a href="https://www.tutorialspoint.com/cplusplus/index.htm">
         <img alt="C/C++ references" title="C/C++ references" src="https://custom-icon-badges.demolab.com/badge/-C/C++-blue?style=for-the-badge&logoColor=white&logo=c"/></a>
@@ -76,7 +76,7 @@
     <a href="https://www.haskell.org/documentation/">
         <img alt="Haskell docs" title="Haskell docs" src="https://custom-icon-badges.demolab.com/badge/-Haskell-5D4F85?style=for-the-badge&logoColor=white&logo=haskell"/></a>
     </p>
-    <h3>Full Stack 💾</h3>
+    <h3>💾 Full Stack </h3>
     <p>
     <img alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     <a href="https://www.mongodb.com/docs/">
@@ -98,15 +98,15 @@
         <img alt="Node.js" title="Node.js" src="https://custom-icon-badges.demolab.com/badge/-Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=4DB33D"></a>
     <br>
     <a href="github-readme-stats.vercel.app">
-        <img alt="Luciano's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=14&theme=blueberry&custom_title=🔝🌐📊%20Top%20Languages%20🌟🚀&hide=jupyter%20notebook,html,cpp&bg_color=00000000" style="max-width: 100%;" /></a>
+        <img alt="Luciano's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=14&theme=blueberry&custom_title=🔝🌐📊%20Top%20Languages&hide=jupyter%20notebook,html,cpp&bg_color=00000000" style="max-width: 100%;" /></a>
     <br>
 </p>
           
 
 </div>
 <div>
-    <h2> Credly 🏅</h2>
-    <h3> Badges earned 🏅</h3>
+    <h2>🏅 Credly </h2>
+    <h3>🏅 Badges earned </h3>
     <!--START_SECTION:badges-->
 
 [![Deep Learning Essentials with Keras](https://images.credly.com/size/110x110/images/91de936a-1322-446d-9ea6-949d78c57428/image.png)](http://www.credly.com/badges/8034c13a-a661-421b-82ef-18d78adae91a "Deep Learning Essentials with Keras")
@@ -116,8 +116,8 @@
 <!--END_SECTION:badges-->
 </div>
 <div>
-    <h2> Certificates 🏆</h2>
-    <h3> Certificates earned ⭐️</h3>
+    <h2>🏆 Certificates </h2>
+    <h3>⭐️ Certificates earned </h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Bootcamp%20Cert.%2C%20Luciano%20Scarpaci.png" alt="Bootcamp Certificate" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20-%20Intro%20to%20Machine%20Learning.png" alt="Intro to Machine Learning" width="110px" height="110px" />
