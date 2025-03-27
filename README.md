@@ -98,7 +98,7 @@
         <img alt="Node.js" title="Node.js" src="https://custom-icon-badges.demolab.com/badge/-Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=4DB33D"></a>
     <br>
     <a href="github-readme-stats.vercel.app">
-        <img alt="Luciano's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,html,c%20plus%20plus" style="max-width: 100%;" /></a>
+        <img alt="Luciano's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,html,c++" style="max-width: 100%;" /></a>
     <br>
 </p>
           
