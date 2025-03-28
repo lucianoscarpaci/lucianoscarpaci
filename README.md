@@ -76,27 +76,7 @@
     <a href="https://www.haskell.org/documentation/">
         <img alt="Haskell docs" title="Haskell docs" src="https://custom-icon-badges.demolab.com/badge/-Haskell-5D4F85?style=for-the-badge&logoColor=white&logo=haskell"/></a>
     </p>
-    <h3>💾 Full Stack </h3>
     <p>
-    <img alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-    <a href="https://www.mongodb.com/docs/">
-        <img alt="MongoDB Documentation" title="MongoDB Documentation" 
-        src="https://custom-icon-badges.demolab.com/badge/-MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=black"></a>
-    <br>
-    <img alt="express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <a href="https://expressjs.com/">
-        <img alt="Express.js - Node.js web application" title="Express.js - Node.js web application" 
-        src="https://custom-icon-badges.demolab.com/badge/-Express-FEFE64?style=for-the-badge&logo=express&logoColor=black"></a>
-    <br>
-    <img alt="react" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <a href="https://reactjs.org/">
-        <img alt="React - A JavaScript library" title="React - A JavaScript library"
-        src="https://custom-icon-badges.demolab.com/badge/-React%20Native-00FFFF?style=for-the-badge&logo=react&logoColor=black"></a>
-    <br>
-    <img alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-    <a href="https://nodejs.org/en/">
-        <img alt="Node.js" title="Node.js" src="https://custom-icon-badges.demolab.com/badge/-Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=4DB33D"></a>
-    <br>
     <a href="github-readme-stats.vercel.app">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianoscarpaci&show_icons=true&theme=blueberry&custom_title=📊%20GitHub%20Stats&include_all_commits=true&count_private=true&bg_color=00000000" style="max-width: 100%;" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=14&theme=blueberry&custom_title=🔝🌐📊%20Top%20Languages&hide=jupyter%20notebook,html,cpp&bg_color=00000000" style="max-width: 100%;" />
