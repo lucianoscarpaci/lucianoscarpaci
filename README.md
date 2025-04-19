@@ -119,5 +119,6 @@
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20M1E1H49S21CE.png" alt="Modernize Infrastructure and Applications with Google Cloud" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20HICRQ6K2F2HL.png" alt="Trust and Security with Google Cloud" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20R9FA9C2F2RXA.png" alt="Google Cloud Digital Leader Training" width="110px" height="110px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20NAI.png" alt="National Academy Inventors Certificate" width="110px" height="110px" />
 </p>
 </div>
