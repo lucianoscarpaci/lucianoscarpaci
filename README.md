@@ -108,6 +108,7 @@
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20-%20Python.png" alt="Python" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20cybersec.png" alt="Cybersecurity" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20swiftdev.png" alt="iOS Developer" width="110px" height="110px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20-%20Tech%20Prep.png" alt="Technical Interview Prep" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20FZE6CAF6J9EV.png" alt="ARM Cortex-M Processors Overview" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20V2Y91PLDWC4K.png" alt="Armv8-M Architecture Fundamentals" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20DY4MTGZ6VX5H.png" alt="Cortex-M Software Development Fundamentals" width="110px" height="110px" />
