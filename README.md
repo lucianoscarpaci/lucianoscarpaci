@@ -6,7 +6,7 @@
 </div>
 <div>
     <h3>📝 Bio<h3>
-    <h4> I am currently diving into the realms of computer vision and deep learning with an exciting project in progress! I'm also delving into machine learning for object localization. With experience in web development, mobile development, artificial intelligence, cryptographic engineering, robotics, and more, I bring a diverse skill set to the table. Passionate about technology and always seeking new challenges, I thrive on continuous learning and eagerly embrace new technologies and opportunities. </h4>
+    <h4> I am currently seeking new projects. With experience in web development, mobile development, artificial intelligence, cryptographic engineering, robotics, and more, I bring a diverse skill set to the table. Passionate about technology and always seeking new challenges, I thrive on continuous learning and eagerly embrace new technologies and opportunities. </h4>
 </div>
 
 <div>
