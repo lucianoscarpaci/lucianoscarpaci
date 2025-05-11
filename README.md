@@ -125,7 +125,7 @@
 </div>
 <div>
     <h3> 🚩 Capture The Flag </h3>
-    <h2> 🏆 2022 Facebook Capture The Flag (CTF) by CodePath </h2>
-    <h2> 🏆 2024 Embedded Capture The Flag (eCTF) by MITRE Cyber Academy </h2>
-    <h2> 🏆 2025 Embedded Capture The Flag (eCTF) by MITRE Cyber Academy </h2>
+    <p> 🏆 2022 Facebook Capture The Flag (CTF) by CodePath </p>
+    <p> 🏆 2024 Embedded Capture The Flag (eCTF) by MITRE Cyber Academy </p>
+    <p> 🏆 2025 Embedded Capture The Flag (eCTF) by MITRE Cyber Academy </p>
 </div>
