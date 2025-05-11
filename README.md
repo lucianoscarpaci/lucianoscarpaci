@@ -123,3 +123,9 @@
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20NAI.png" alt="National Academy Inventors Certificate" width="110px" height="110px" />
 </p>
 </div>
+<div>
+    <h3> 🚩 Capture The Flag </h3>
+    <h2> 🏆 2022 Facebook Capture The Flag (CTF) by CodePath </h2>
+    <h2> 🏆 2024 Embedded Capture The Flag (eCTF) by MITRE Cyber Academy </h2>
+    <h2> 🏆 2025 Embedded Capture The Flag (eCTF) by MITRE Cyber Academy </h2>
+</div>
