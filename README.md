@@ -112,13 +112,6 @@
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20FZE6CAF6J9EV.png" alt="ARM Cortex-M Processors Overview" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20V2Y91PLDWC4K.png" alt="Armv8-M Architecture Fundamentals" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20DY4MTGZ6VX5H.png" alt="Cortex-M Software Development Fundamentals" width="110px" height="110px" />
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20V41NHQJNM137.png" alt="Google Cloud Big Data and Machine Learning Fundamentals" width="110px" height="110px" />
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20283ML4GK1EH8.png" alt="Modernizing Data Lakes and Data Warehouses with Google Cloud" width="110px" height="110px" />
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20COIFYOG37FKW.png" alt="Digital Transformation with Google Cloud" width="110px" height="110px" />
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20KE5XYLGNQP60.png" alt="Exploring Data Transformation with Google Cloud" width="110px" height="110px" />
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20AUFM49M8N73G.png" alt="Innovating with Google Cloud Artifical Intelligence" width="110px" height="110px" />
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20M1E1H49S21CE.png" alt="Modernize Infrastructure and Applications with Google Cloud" width="110px" height="110px" />
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20HICRQ6K2F2HL.png" alt="Trust and Security with Google Cloud" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20R9FA9C2F2RXA.png" alt="Google Cloud Digital Leader Training" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20NAI.png" alt="National Academy Inventors Certificate" width="110px" height="110px" />
 </p>
