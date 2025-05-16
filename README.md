@@ -114,11 +114,7 @@
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20DY4MTGZ6VX5H.png" alt="Cortex-M Software Development Fundamentals" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Coursera%20R9FA9C2F2RXA.png" alt="Google Cloud Digital Leader Training" width="110px" height="110px" />
     <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/Luciano%20Scarpaci%20NAI.png" alt="National Academy Inventors Certificate" width="110px" height="110px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/2024%20Mitre%20ECTF.png" width="110px" height="110px" alt="2024 Mitre ECTF" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Certificates/2025%20Mitre%20ECTF.png" width="110px" height="110px" alt="2025 Mitre ECTF" />
 </p>
-</div>
-<div>
-    <h3> 🚩 Capture The Flag </h3>
-    <p> 🏆 2022 Facebook Capture The Flag (CTF) by CodePath </p>
-    <p> 🏆 2024 Embedded Capture The Flag (eCTF) by MITRE Cyber Academy </p>
-    <p> 🏆 2025 Embedded Capture The Flag (eCTF) by MITRE Cyber Academy </p>
 </div>
