@@ -1,9 +1,6 @@
- <div>
- <p align="center">
-    <a href="https://github.com/lucianoscarpaci">
-        <img src="https://user-images.githubusercontent.com/16402942/209362180-afdbd938-7082-4f03-a7d1-655ef9777fc1.png" alt="Luciano Scarpaci" /></a>
-    </p>
-</div>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/16402942/209362180-afdbd938-7082-4f03-a7d1-655ef9777fc1.png" alt="Luciano Scarpaci" />
+</p>
 <h3>📝 Bio</h3>
 <p>
 Hi, I’m Luciano Scarpaci (Lu-chi-ia-no Scar-pace-i), a Master’s graduate in Computer Science from Florida Atlantic University.
