@@ -92,6 +92,7 @@ I’m currently exploring opportunities where I can grow, contribute, and keep b
     </a>
     <br>
 </p>
+</p>
           
 
 <h2>🏅 Credly </h2>
