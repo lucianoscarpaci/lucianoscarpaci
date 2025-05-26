@@ -14,6 +14,12 @@ What sets me apart is my curiosity and commitment—I treat every project as a c
 <p>
 I’m currently exploring opportunities where I can grow, contribute, and keep building things that matter.
 </p>
+<p>
+Let’s connect!
+
+GitHub: https://github.com/lucianoscarpaci
+📧: lucianoscarpacibusiness@gmail.com
+</p>
 
 <h2>📠 Languages and Tools </h2>
 <h3>💾 Programming and Software </h3>
