@@ -18,6 +18,8 @@ I’m currently exploring opportunities where I can grow, contribute, and keep b
 Let’s connect!
 
 GitHub: https://github.com/lucianoscarpaci
+</p>
+<p>
 📧: lucianoscarpacibusiness@gmail.com
 </p>
 
