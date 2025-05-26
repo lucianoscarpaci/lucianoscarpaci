@@ -9,14 +9,9 @@ Hi, I’m Luciano Scarpaci (Lu-chi-ia-no Scar-pace-i), a Master’s graduate in 
 Interests: Full Stack Web Development, Cybersecurity, Embedded Systems, Robotics, and Deep Learning. I’ve always been passionate about using technology to build meaningful projects—whether through secure systems, thoughtful design, or solving complex challenges.
 </p>
 <p>
-What sets me apart is my curiosity and commitment—I treat every project as a chance to learn deeply and create something I’m proud of. From research to real-world implementation, I have a talent for turning ideas into reality.
+What sets me apart is my curiosity and commitment—I treat every project as a chance to learn deeply and create something I’m proud of. From research to real-world implementation, I have a talent for turning ideas into reality. I’m currently exploring opportunities where I can grow, contribute, and keep building things that matter. Let’s connect!
 </p>
 <p>
-I’m currently exploring opportunities where I can grow, contribute, and keep building things that matter.
-</p>
-<p>
-Let’s connect!
-
 GitHub: https://github.com/lucianoscarpaci
 </p>
 <p>
