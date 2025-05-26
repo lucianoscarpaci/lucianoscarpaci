@@ -11,11 +11,15 @@ Interests: Full Stack Web Development, Cybersecurity, Embedded Systems, Robotics
 <p>
 What sets me apart is my curiosity and commitment—I treat every project as a chance to learn deeply and create something I’m proud of. From research to real-world implementation, I have a talent for turning ideas into reality. I’m currently exploring opportunities where I can grow, contribute, and keep building things that matter. Let’s connect!
 </p>
-<p>
-GitHub: https://github.com/lucianoscarpaci
+<p>GitHub:
+    <a href="https://github.com/lucianoscarpaci">
+        https://github.com/lucianoscarpaci
+    </a>
 </p>
-<p>
-📧: lucianoscarpacibusiness@gmail.com
+<p>📧: 
+    <a href="mailto:lucianoscarpacibusiness@gmail.com">
+        lucianoscarpacibusiness@gmail.com
+    </a>
 </p>
 
 <h2>📠 Languages and Tools </h2>
