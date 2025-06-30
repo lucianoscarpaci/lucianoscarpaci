@@ -14,10 +14,10 @@ What makes me unique is my curiosity and dedication. I see every project as an o
 <br>
 <p align="left">
     <a href="https://github.com/lucianoscarpaci">
-        <img src="https://img.shields.io/github/badge/GitHub-lucianoscarpaci-black?style=for-the-badge&logo=github" alt="GitHub"></a>&nbsp;
+        <img src="https://img.shields.io/badge/GitHub-lucianoscarpaci-black?style=for-the-badge&logo=github" alt="GitHub"></a>&nbsp;
     <a href="https://www.linkedin.com/in/lucianoscarpaci/">
-        <img src="https://img.shields.io/github/badge/LinkedIn-lucianoscarpaci-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>&nbsp;
-    <a href="lucianoscarpacibusiness@gmail.com">
+        <img src="https://img.shields.io/badge/LinkedIn-lucianoscarpaci-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>&nbsp;
+    <a href="mailto:lucianoscarpacibusiness@gmail.com">
         <img src="https://img.shields.io/badge/Email-lucianoscarpacibusiness%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>&nbsp;
 </p>
 <br>
