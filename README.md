@@ -11,17 +11,16 @@ I’m passionate about Full Stack Web Development, Cybersecurity, Embedded Syste
 <p>
 What makes me unique is my curiosity and dedication. I see every project as an opportunity to learn something new and create work I can be proud of. From conducting research to implementing real-world solutions, I enjoy turning ideas into reality. I’m currently looking for opportunities to grow, make an impact, and continue building things that truly matter. Let’s connect!
 </p>
-<p>GitHub:
+<br>
+<p align="left">
     <a href="https://github.com/lucianoscarpaci">
-        https://github.com/lucianoscarpaci
-    </a>
+        <img src="https://img.shields.io/github/badge/GitHub-lucianoscarpaci-black?style=for-the-badge&logo=github" alt="GitHub"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/lucianoscarpaci/">
+        <img src="https://img.shields.io/github/badge/LinkedIn-lucianoscarpaci-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>&nbsp;
+    <a href="lucianoscarpacibusiness@gmail.com">
+        <img src="https://img.shields.io/badge/Email-lucianoscarpacibusiness%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>&nbsp;
 </p>
-<p>📧: 
-    <a href="mailto:lucianoscarpacibusiness@gmail.com">
-        lucianoscarpacibusiness@gmail.com
-    </a>
-</p>
-
+<br>
 <h2>📠 Languages and Tools </h2>
 <h3>💾 Programming and Software </h3>
 <p align="left">
