@@ -6,10 +6,10 @@
 Hi, I’m Luciano Scarpaci (Lu-chi-ia-no Scar-pace-i), a Master’s graduate in Computer Science from Florida Atlantic University.
 </p>
 <p>
-Interests: Full Stack Web Development, Cybersecurity, Embedded Systems, Robotics, and Deep Learning. I’ve always been passionate about using technology to build meaningful projects—whether through secure systems, thoughtful design, or solving complex challenges.
+I’m passionate about Full Stack Web Development, Cybersecurity, Embedded Systems, Robotics, and Deep Learning. I love using technology to create meaningful projects, whether it’s through secure systems, thoughtful design, or solving complex challenges.
 </p>
 <p>
-What sets me apart is my curiosity and commitment—I treat every project as a chance to learn deeply and create something I’m proud of. From research to real-world implementation, I have a talent for turning ideas into reality. I’m currently exploring opportunities where I can grow, contribute, and keep building things that matter. Let’s connect!
+What makes me unique is my curiosity and dedication. I see every project as an opportunity to learn something new and create work I can be proud of. From conducting research to implementing real-world solutions, I enjoy turning ideas into reality. I’m currently looking for opportunities to grow, make an impact, and continue building things that truly matter. Let’s connect!
 </p>
 <p>GitHub:
     <a href="https://github.com/lucianoscarpaci">
