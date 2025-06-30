@@ -1,5 +1,4 @@
 Articles/shell.nix
-*.txt
 *.tex
 .DS_Store
 *.aux

@@ -1,0 +1,42 @@
+# bot on
+
+name: GitHub Follower Bot Running
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  up-and-running:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.0'
+
+    - name: Install Bundler
+      run: gem install bundler
+
+    - name: Install Gems
+      run: bundle install
+
+    - name: Run Follower Bot
+      run: |
+        export github_user=${{ secrets.PERSONAL_GITHUB_USER }}
+        export personal_github_token=${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        ruby follower_bot.rb
+
+    - name: Commit and Push if Updated
+      run: |
+        git config user.name "lucianoscarpaci"
+        git config user.email "scarpacii.luciano@gmail.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Last Commit: ${timestamp}(UTC)" || exit 0
+        git push origin main
