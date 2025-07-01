@@ -9,15 +9,16 @@ Hi, I’m Luciano Scarpaci (Lu-chi-ia-no Scar-pace-i), a Master’s graduate in 
 I’m passionate about Full Stack Web Development, Cybersecurity, Embedded Systems, Robotics, and Deep Learning. I love using technology to create meaningful projects, whether it’s through secure systems, thoughtful design, or solving complex challenges.
 </p>
 <p>
-What makes me unique is my curiosity and dedication. I see every project as an opportunity to learn something new and create work I can be proud of. From conducting research to implementing real-world solutions, I enjoy turning ideas into reality. I’m currently looking for opportunities to grow, make an impact, and continue building things that truly matter. Let’s connect!
+What makes me unique is my curiosity and dedication. I see every project as an opportunity to learn something new and create work I can be proud of. From conducting research to implementing real-world solutions, I enjoy turning ideas into reality. I’m currently looking for opportunities to grow, make an impact, and continue building things that truly matter.
 </p>
 <br>
+<h3>📫 Let’s connect!</h3>
 <p align="left">
     <a href="https://github.com/lucianoscarpaci">
         <img src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
     <a href="https://www.linkedin.com/in/lucianoscarpaci/">
         <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-    <a href="https://instagram.com/luciano">
+    <a href="https://instagram.com/lucianoscarpa.ci">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
 </p>
 <br>
