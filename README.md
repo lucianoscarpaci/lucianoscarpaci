@@ -21,7 +21,7 @@ What makes me unique is my curiosity and dedication. I see every project as an o
     <a href="https://instagram.com/lucianoscarpa.ci">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="lucianoscarpaci">
-        <img src="https://img.shields.io/badge/Discord-4E5D94?style=for-the-badge&logoColor=white" alt="Discord"></a>
+        <img title="lucianoscarpaci" src="https://img.shields.io/badge/Discord-4E5D94?style=for-the-badge&logoColor=white" alt="Discord"></a>
 </p>
 <br>
 <h2>📠 Languages and Tools </h2>
