@@ -9,53 +9,69 @@ personal_github_token = ENV['personal_github_token']
 # API URLs
 follower_url = "https://api.github.com/users/#{github_user}/followers?page="
 update_followed_user = 'https://api.github.com/user/following/%s'
+# HTTP headers
+headers = { 'User-Agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' }
 
 # Variables
+current_followers = []
 page = 1
 follower_counter = 0
 
 # Read existing followers from file
-follower_txt_lists = File.readlines('./followers.txt').map(&:chomp) rescue []
+stored_followers = File.readlines('./followers.txt').map(&:chomp) rescue []
 
-File.open('./followers.txt', 'a') do |file_handler|
-  loop do
-    #delay pages
-    sleep(1)
-    response = HTTParty.get(follower_url + page.to_s)
-    if response.code == 200
-      follower_lists = JSON.parse(response.body)
-      puts "Follower data: #{follower_lists.inspect}"
-      break if follower_lists.empty?
+loop do
+  sleep(1)
+  response = HTTParty.get("#{follower_url}#{page}")
+  unless response.code == 200
+    puts "Error fetching followers: HTTP #{response.code}"
+    break
+  end
 
-      follower_counter += follower_lists.size
-      follower_lists.each do |follower_info|
-        puts "Processing follower info: #{follower_info.inspect}"
-        if follower_info.is_a?(Hash) && follower_info.key?('login')
-          user = follower_info["login"]
-          next if follower_txt_lists.include?(user)
+  batch = JSON.parse(response.body)
+  break if batch.empty?
 
-          headers = { 'User-Agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' }
-          put_response = HTTParty.put(update_followed_user % user,
-                                      basic_auth: { username: github_user, password: personal_github_token },
-                                      headers: headers)
-          if put_response.code == 204
-            puts "User: #{user} has been followed!"
-            file_handler.puts(user)
-          else
-            puts "Error when following user #{user}: #{put_response.body}"
-          end
-          # Delay after following each user
-          sleep(1)
-        else
-          puts "Unexpected data format for user: #{follower_info.inspect}"
-        end
-      end
-    else
-      puts "Error fetching follower data: HTTP #{response.code}"
-    end
-    page += 1
+  batch.each do |follower_info|
+    next unless follower_info.is_a?(Hash) && follower_info['login']
+    user = follower_info["login"]
+    current_followers << user
+  end
+  page += 1
+end
+
+new_followers = current_followers - stored_followers
+
+new_followers.each do |user|
+  sleep(1)
+  response = HTTParty.put(
+    update_followed_user % user,
+    basic_auth: { username: github_user, password: personal_github_token},
+    headers: headers
+  )
+  if response.code == 204
+    puts "Followed new follower: #{user}"
+    stored_followers << user
+  else
+    puts "Error following #{user}: #{response.body}"
   end
 end
 
-File.write('follower_counter.txt', follower_counter.to_s + "\n")
-puts "\nFollowing users from your followers list is done!"
+unfollowers = stored_followers - current_followers
+
+unfollowers.each do |user|
+  sleep(1)
+  response = HTTParty.delete(
+    update_followed_user % user,
+    basic_auth: { username: github_user, password: personal_github_token },
+    headers: headers
+  )
+  if response.code == 204
+    puts "Unfollowed #{user} (no longer following you)"
+    stored_followers.delete(user)
+  else
+    puts "Error unfollowing #{user}: #{response.body}"
+  end
+end
+
+File.write('./followers.txt', stored_followers.sort.join("\n"))
+File.write('follower_counter.txt', "#{stored_followers.size}\n")
