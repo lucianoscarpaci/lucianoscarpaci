@@ -40,7 +40,7 @@ loop do
   page += 1
 end
 
-if current_followers < 5
+if current_followers.size < 5
   puts "You have less than 5 followers. Aborting to prevent mass unfollows."
   exit
 end
