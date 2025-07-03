@@ -94,7 +94,7 @@ What makes me unique is my curiosity and dedication. I see every project as an o
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=14&theme=blueberry&custom_title=🔝🌐📊%20Top%20Languages&hide=jupyter%20notebook,html,cpp&bg_color=00000000" style="max-width: 100%;" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianoscarpaci&show_icons=true&hide=prs,contribs&show=issues&card_width=138&theme=blueberry&custom_title=📊%20GitHub%20Stats&include_all_commits=true&rank_icon=github&count_private=true&ring_color=C51A4A&bg_color=00000000"
         style="max-width: 100%;" />
-        <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=lucianoscarpaci&theme=dracula&hide_border=true&bg_color=00000000" style="max-width: 100%;" />
+        <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=lucianoscarpaci&theme=dracula&hide_border=true&cache_seconds=1" style="max-width: 100%;" />
     </a>
     <br>
 </p>
