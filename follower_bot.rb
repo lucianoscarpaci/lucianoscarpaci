@@ -7,7 +7,7 @@ github_user = ENV['github_user']
 personal_github_token = ENV['personal_github_token']
 
 # API URLs
-follower_url = "https://api.github.com/users/#{github_user}/followers?page="
+follower_url = "https://api.github.com/users/#{github_user}/followers?per_page=100&page="
 update_followed_user = 'https://api.github.com/user/following/%s'
 # HTTP headers
 headers = { 'User-Agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' }
@@ -24,8 +24,9 @@ loop do
   sleep(1)
   response = HTTParty.get("#{follower_url}#{page}")
   unless response.code == 200
-    puts "Error fetching followers: HTTP #{response.code}"
-    break
+    puts "Error fetching followers on page #{page}: HTTP #{response.code}"
+    puts "Aborting to prevent mass unfollows"
+    exit
   end
 
   batch = JSON.parse(response.body)
@@ -37,6 +38,11 @@ loop do
     current_followers << user
   end
   page += 1
+end
+
+if current_followers < 5
+  puts "You have less than 5 followers. Aborting to prevent mass unfollows."
+  exit
 end
 
 new_followers = current_followers - stored_followers
