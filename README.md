@@ -47,14 +47,6 @@ What makes me unique is my curiosity and dedication. I see every project as an o
         <img alt="Java docs" title="Java docs" src="https://custom-icon-badges.demolab.com/badge/-Java-007396?style=for-the-badge&logoColor=white&logo=java"/></a>
     <a href="https://www.typescriptlang.org/docs/">
         <img alt="TypeScript docs" title="TypeScript docs" src="https://custom-icon-badges.demolab.com/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript"/></a>
-    <a href="https://www.rust-lang.org/learn">
-        <img alt="Rust docs" title="Rust docs" src="https://custom-icon-badges.demolab.com/badge/-Rust-black?style=for-the-badge&logoColor=white&logo=rust"/></a>
-    <a href="https://www.scala-lang.org/documentation/">
-        <img alt="Scala docs" title="Scala docs" src="https://custom-icon-badges.demolab.com/badge/-Scala-DC322F?style=for-the-badge&logoColor=white&logo=scala"/></a>
-    <a href="https://www.kotlinlang.org/docs/home.html">
-        <img alt="Kotlin docs" title="Kotlin docs" src="https://custom-icon-badges.demolab.com/badge/-Kotlin-0095D5?style=for-the-badge&logoColor=white&logo=kotlin"/></a>
-    <a href="https://www.haskell.org/documentation/">
-        <img alt="Haskell docs" title="Haskell docs" src="https://custom-icon-badges.demolab.com/badge/-Haskell-5D4F85?style=for-the-badge&logoColor=white&logo=haskell"/></a>
 </p>
 
 <!-- Web Development -->
