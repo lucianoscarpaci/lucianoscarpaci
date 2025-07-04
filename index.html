@@ -107,19 +107,21 @@
       .github-stats img { width: 100% !important; height: auto; }
     }
     .projects-screenshot {
-      width: 220px;
-      height: 140px;
-      object-fit: cover;
-      border-radius: 16px;
+      width: 100%;
+      max-width: 480px;
+      height: auto;
+      object-fit: contain;
+      border-radius: 18px;
       border: 2px solid #e0e0e0;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.10);
       background: #fafafa;
-      margin-bottom: 4px;
+      margin: 8px 0;
+      display: block;
       transition: transform 0.3s, box-shadow 0.3s;
     }
     .projects-screenshot:hover, .projects-screenshot:active {
-      transform: scale(1.06);
-      box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+      transform: scale(1.03);
+      box-shadow: 0 8px 24px rgba(25, 118, 210, 0.18);
       border-color: #1976d2;
     }
   </style>
