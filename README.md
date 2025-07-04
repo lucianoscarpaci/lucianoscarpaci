@@ -26,39 +26,17 @@ What makes me unique is my curiosity and dedication. I see every project as an o
 <br>
 <h2>📠 Languages and Tools </h2>
 <h3>💾 Programming and Software </h3>
+
+<!-- Programming Languages -->
+<h4>Programming Languages</h4>
 <p align="left">
     <a href="https://www.tutorialspoint.com/cplusplus/index.htm">
         <img alt="C/C++ references" title="C/C++ references" src="https://custom-icon-badges.demolab.com/badge/-C/C++-blue?style=for-the-badge&logoColor=white&logo=c"/></a>
     <a href="https://www.python.org/">
         <img alt="Python org" title="Python org" src="https://custom-icon-badges.demolab.com/badge/-Python-FEFE64?style=for-the-badge&logoColor=blue&logo=Python"/></a>
-    <a href="https://git-scm.com/docs">
-        <img alt="Git docs" title="Git docs" src="https://custom-icon-badges.demolab.com/badge/-Git-orange?style=for-the-badge&logoColor=black&logo=Git"/></a>
-    <a href="https://www.gnu.org/software/bash/manual/bash.html">
-        <img alt="Bash docs" title="Bash docs" src="https://custom-icon-badges.demolab.com/badge/-Bash-white?style=for-the-badge&logoColor=black&logo=gnubash"/></a>
-    <a href="https://brew.sh/">
-        <img alt="Search homebrew" title="Search homebrew" src="https://custom-icon-badges.demolab.com/badge/-Homebrew-FFDF7F?style=for-the-badge&logoColor=black&logo=Homebrew"></a>
-    <a href="https://code.visualstudio.com/docs">
-        <img alt="Visual Studio Code docs" title="Visual Studio Code docs" src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-white?style=for-the-badge&logoColor=blue&logo=visualstudiocode"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img alt="JavaScript references" title="JavaScript references"
         src="https://custom-icon-badges.demolab.com/badge/-JavaScript-FEFE64?style=for-the-badge&logoColor=black&logo=JavaScript"></a>
-    <a href="https://dev.mysql.com/doc/">
-        <img alt="MySQL Documentation" title="MySQL Documentation" 
-        src="https://custom-icon-badges.demolab.com/badge/-MySQL-00FFFF?style=for-the-badge&logoColor=black&logo=MySQL"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img alt="HTML: HyperText Markup Language" title="HTML: HyperText Markup Language" src="https://custom-icon-badges.demolab.com/badge/-HTML-orange?style=for-the-badge&logoColor=black&logo=HTML5"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">
-        <img alt="CSS reference - CSS: Cascading Style Sheets" title="CSS reference - CSS: Cascading Style Sheets" src="https://custom-icon-badges.demolab.com/badge/-CSS-blue?style=for-the-badge&logoColor=black&logo=CSS3"></a>
-    <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">
-        <img alt="Get started with Bootstrap" title="Get started with Bootstrap docs"
-        src="https://custom-icon-badges.demolab.com/badge/-Bootstrap-8A00FF?style=for-the-badge&logoColor=white&logo=Bootstrap"></a>
-    <a href="https://www.swift.org/documentation/">
-        <img alt="Swift.org - Documentation" title="Swift.org - Documentation"
-        src="https://custom-icon-badges.demolab.com/badge/-Swift-orange?style=for-the-badge&logoColor=white&logo=Swift"></a>
-    <a href="https://developer.apple.com/documentation/">
-        <img alt="Featured - Apple Developer Documentation" title="Featured - Apple Developer Documentation" src="https://custom-icon-badges.demolab.com/badge/-iOS-C0C0C0?style=for-the-badge&logoColor=black&logo=iOS"></a>
-    <a href="https://developer.apple.com/documentation/xcode">
-        <img alt="Xcode - Apple Developer Documentaton" title="Xcode Apple Developer Documentation" src="https://custom-icon-badges.demolab.com/badge/-Xcode-blue?style=for-the-badge&logoColor=white&logo=xcode"></a>
     <a href="https://www.ruby-lang.org/en/documentation/">
         <img alt="Ruby docs" title="Ruby docs" src="https://custom-icon-badges.demolab.com/badge/-Ruby-CC342D?style=for-the-badge&logoColor=white&logo=ruby"/></a>
     <a href="https://golang.org/doc/">
@@ -69,27 +47,72 @@ What makes me unique is my curiosity and dedication. I see every project as an o
         <img alt="Java docs" title="Java docs" src="https://custom-icon-badges.demolab.com/badge/-Java-007396?style=for-the-badge&logoColor=white&logo=java"/></a>
     <a href="https://www.typescriptlang.org/docs/">
         <img alt="TypeScript docs" title="TypeScript docs" src="https://custom-icon-badges.demolab.com/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript"/></a>
-    <a href="https://www.docker.com/get-started">
-        <img alt="Docker docs" title="Docker docs" src="https://custom-icon-badges.demolab.com/badge/-Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker"/></a>
     <a href="https://www.rust-lang.org/learn">
         <img alt="Rust docs" title="Rust docs" src="https://custom-icon-badges.demolab.com/badge/-Rust-black?style=for-the-badge&logoColor=white&logo=rust"/></a>
     <a href="https://www.scala-lang.org/documentation/">
         <img alt="Scala docs" title="Scala docs" src="https://custom-icon-badges.demolab.com/badge/-Scala-DC322F?style=for-the-badge&logoColor=white&logo=scala"/></a>
     <a href="https://www.kotlinlang.org/docs/home.html">
         <img alt="Kotlin docs" title="Kotlin docs" src="https://custom-icon-badges.demolab.com/badge/-Kotlin-0095D5?style=for-the-badge&logoColor=white&logo=kotlin"/></a>
+    <a href="https://www.haskell.org/documentation/">
+        <img alt="Haskell docs" title="Haskell docs" src="https://custom-icon-badges.demolab.com/badge/-Haskell-5D4F85?style=for-the-badge&logoColor=white&logo=haskell"/></a>
+</p>
+
+<!-- Web Development -->
+<h4>Web Development</h4>
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img alt="HTML: HyperText Markup Language" title="HTML: HyperText Markup Language" src="https://custom-icon-badges.demolab.com/badge/-HTML-orange?style=for-the-badge&logoColor=black&logo=HTML5"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">
+        <img alt="CSS reference - CSS: Cascading Style Sheets" title="CSS reference - CSS: Cascading Style Sheets" src="https://custom-icon-badges.demolab.com/badge/-CSS-blue?style=for-the-badge&logoColor=black&logo=CSS3"></a>
+    <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">
+        <img alt="Get started with Bootstrap" title="Get started with Bootstrap docs"
+        src="https://custom-icon-badges.demolab.com/badge/-Bootstrap-8A00FF?style=for-the-badge&logoColor=white&logo=Bootstrap"></a>
+</p>
+
+<!-- Databases & Data Science -->
+<h4>Databases & Data Science</h4>
+<p align="left">
+    <a href="https://dev.mysql.com/doc/">
+        <img alt="MySQL Documentation" title="MySQL Documentation" 
+        src="https://custom-icon-badges.demolab.com/badge/-MySQL-00FFFF?style=for-the-badge&logoColor=black&logo=MySQL"></a>
     <a href ="https://www.tensorflow.org/">
         <img alt="TensorFlow docs" title="TensorFlow docs" src="https://custom-icon-badges.demolab.com/badge/-TensorFlow-FF6F00?style=for-the-badge&logoColor=white&logo=tensorflow"/></a>
     <a href="https://pytorch.org/docs/stable/index.html">
         <img alt="PyTorch docs" title="PyTorch docs" src="https://custom-icon-badges.demolab.com/badge/-PyTorch-EE4C2C?style=for-the-badge&logoColor=white&logo=pytorch"/></a>
     <a href="https://opencv.org/">
         <img alt="OpenCV docs" title="OpenCV docs" src="https://custom-icon-badges.demolab.com/badge/-OpenCV-5C3EE8?style=for-the-badge&logoColor=white&logo=opencv"/></a>
+</p>
+
+<!-- Tools & Platforms -->
+<h4>Tools & Platforms</h4>
+<p align="left">
+    <a href="https://git-scm.com/docs">
+        <img alt="Git docs" title="Git docs" src="https://custom-icon-badges.demolab.com/badge/-Git-orange?style=for-the-badge&logoColor=black&logo=Git"/></a>
+    <a href="https://www.gnu.org/software/bash/manual/bash.html">
+        <img alt="Bash docs" title="Bash docs" src="https://custom-icon-badges.demolab.com/badge/-Bash-white?style=for-the-badge&logoColor=black&logo=gnubash"/></a>
+    <a href="https://brew.sh/">
+        <img alt="Search homebrew" title="Search homebrew" src="https://custom-icon-badges.demolab.com/badge/-Homebrew-FFDF7F?style=for-the-badge&logoColor=black&logo=Homebrew"></a>
+    <a href="https://code.visualstudio.com/docs">
+        <img alt="Visual Studio Code docs" title="Visual Studio Code docs" src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-white?style=for-the-badge&logoColor=blue&logo=visualstudiocode"></a>
+    <a href="https://www.docker.com/get-started">
+        <img alt="Docker docs" title="Docker docs" src="https://custom-icon-badges.demolab.com/badge/-Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker"/></a>
+</p>
+
+<!-- Mobile & Embedded -->
+<h4>Mobile & Embedded</h4>
+<p align="left">
+    <a href="https://www.swift.org/documentation/">
+        <img alt="Swift.org - Documentation" title="Swift.org - Documentation"
+        src="https://custom-icon-badges.demolab.com/badge/-Swift-orange?style=for-the-badge&logoColor=white&logo=Swift"></a>
+    <a href="https://developer.apple.com/documentation/">
+        <img alt="Featured - Apple Developer Documentation" title="Featured - Apple Developer Documentation" src="https://custom-icon-badges.demolab.com/badge/-iOS-C0C0C0?style=for-the-badge&logoColor=black&logo=iOS"></a>
+    <a href="https://developer.apple.com/documentation/xcode">
+        <img alt="Xcode - Apple Developer Documentaton" title="Xcode Apple Developer Documentation" src="https://custom-icon-badges.demolab.com/badge/-Xcode-blue?style=for-the-badge&logoColor=white&logo=xcode"></a>
     <a href="https://www.raspberrypi.org/documentation/">
         <img alt="Raspberry Pi docs" title="Raspberry Pi docs" src="https://custom-icon-badges.demolab.com/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logoColor=white&logo=raspberrypi"/></a>
     <a href="https://www.arduino.cc/reference/en/">
         <img alt="Arduino docs" title="Arduino docs" src="https://custom-icon-badges.demolab.com/badge/-Arduino-00979D?style=for-the-badge&logoColor=white&logo=arduino"/></a>
-    <a href="https://www.haskell.org/documentation/">
-        <img alt="Haskell docs" title="Haskell docs" src="https://custom-icon-badges.demolab.com/badge/-Haskell-5D4F85?style=for-the-badge&logoColor=white&logo=haskell"/></a>
-    </p>
+</p>
     <a href="github-readme-stats.vercel.app">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=14&theme=dracula&custom_title=🔝🌐📊%20Top%20Languages&hide=jupyter%20notebook,html,cpp" style="max-width: 100%;" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianoscarpaci&show_icons=true&hide=prs,contribs&show=issues&card_width=138&theme=dracula&custom_title=📊%20GitHub%20Stats&include_all_commits=true&rank_icon=github&count_private=true&ring_color=282a36"
