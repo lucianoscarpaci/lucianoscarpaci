@@ -28,22 +28,22 @@ What makes me unique is my curiosity and dedication. I see every project as an o
 <h2>🗂️ Projects</h2>
 <p align="center">
   <a href="https://github.com/lucianoscarpaci/MAX78000FTHR" target="_blank">
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/A51D8D28-3E64-480E-93EF-E211984F81A7.PNG" alt="Project Screenshot 1" width="320px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/A51D8D28-3E64-480E-93EF-E211984F81A7.PNG" alt="Project Screenshot 1" width="280px" />
   </a>
   <a href="https://github.com/TAANVAS/Taanvas" target="_blank">
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarcaci/main/Screenshots/7A0885FB-5293-4419-A48F-33B111F746DA.PNG" alt="Project Screenshot 2" width="320px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/7A0885FB-5293-4419-A48F-33B111F746DA.PNG" alt="Project Screenshot 2" width="280px" />
   </a>
   <a href="https://github.com/lucianoscarpaci/reddit-v2020.4-tree-theme-" target="_blank">
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/CD838CC5-D3E6-411D-9F83-B1DA608A31E7.PNG" alt="Project Screenshot 3" width="320px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/CD838CC5-D3E6-411D-9F83-B1DA608A31E7.PNG" alt="Project Screenshot 3" width="280px" />
   </a>
   <a href="https://github.com/FAU-DYYP/DYYP-Repo" target="_blank">
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/109C2647-18A3-46D1-8F1D-7609BFEC8832.PNG" alt="Project Screenshot 4" width="320px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/109C2647-18A3-46D1-8F1D-7609BFEC8832.PNG" alt="Project Screenshot 4" width="280px" />
   </a>
   <a href="https://github.com/lucianoscarpaci/Space-Invaders-JS" target="_blank">
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/05871659-7DAD-46F5-9C1D-4A78E2B8F561.PNG" alt="Project Screenshot 5" width="320px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/05871659-7DAD-46F5-9C1D-4A78E2B8F561.PNG" alt="Project Screenshot 5" width="280px" />
   </a>
   <a href="https://github.com/lucianoscarpaci/DaisyBot-Scheduler" target="_blank">
-    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/4A4B4860-7810-4D84-9FB9-FE6F4CB4F9F8.PNG" alt="Project Screenshot 6" width="320px" />
+    <img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/4A4B4860-7810-4D84-9FB9-FE6F4CB4F9F8.PNG" alt="Project Screenshot 6" width="280px" />
   </a>
 </p>
 
