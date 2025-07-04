@@ -59,6 +59,10 @@ What makes me unique is my curiosity and dedication. I see every project as an o
     <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">
         <img alt="Get started with Bootstrap" title="Get started with Bootstrap docs"
         src="https://custom-icon-badges.demolab.com/badge/-Bootstrap-8A00FF?style=for-the-badge&logoColor=white&logo=Bootstrap"></a>
+    <a href="https://sass-lang.com/documentation/">
+        <img alt="Sass docs" title="Sass docs" src="https://custom-icon-badges.demolab.com/badge/-Sass-CC6699?style=for-the-badge&logoColor=white&logo=Sass"/></a>
+    <a href="https://tailwindcss.com/docs">
+        <img alt="Tailwind CSS docs" title="Tailwind CSS docs" src="https://custom-icon-badges.demolab.com/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logoColor=white&logo=TailwindCSS"/></a>
 </p>
 
 <!-- Databases & Data Science -->
