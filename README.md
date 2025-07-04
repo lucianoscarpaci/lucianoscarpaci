@@ -68,6 +68,8 @@ What makes me unique is my curiosity and dedication. I see every project as an o
 <!-- Databases & Data Science -->
 <h4>Databases & Data Science</h4>
 <p align="left">
+    <a href="https://www.phpmyadmin.net/docs/">
+        <img alt="phpMyAdmin docs" title="phpMyAdmin docs" src="https://custom-icon-badges.demolab.com/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logoColor=white&logo=phpmyadmin"/></a>
     <a href="https://dev.mysql.com/doc/">
         <img alt="MySQL Documentation" title="MySQL Documentation" 
         src="https://custom-icon-badges.demolab.com/badge/-MySQL-00FFFF?style=for-the-badge&logoColor=black&logo=MySQL"></a>
