@@ -1,9 +1,6 @@
 0joseDark
 18KRedApple
-AWSinsomnia
-Alastrolabiya
 Ayokanmi-Adejola
-BdgTekno
 CallumGA
 ChanithaAbey
 Cittykitten
@@ -13,7 +10,6 @@ Davidevlops
 DeveloperThierry
 Dilshad71
 EduardoDosSantosFerreira
-HOLAravel
 IDouble
 JohnMwendwa
 K1rsN7
@@ -23,13 +19,10 @@ MatthewMacri
 Maxd646
 MdShawonForazi
 Mervespm
-PramaSoftDev
 Raahim2
 RafalW3bCraft
 RamamAgarwal
-Ramonwin
 S-rahmanKaium
-TerraFormation11
 Uhuli
 Vocula
 Zer0-Bug
@@ -43,12 +36,10 @@ bwetzel2016
 calebpanoch
 cfrBernard
 chmpX
-circleitdewa
 cod3r60
 codewithdhruba01
 d3v1sh
 diogocarrola
-dockerDep
 dustinsherwood
 entropymaxx
 gamemann
