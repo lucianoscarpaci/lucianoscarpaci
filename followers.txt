@@ -1,6 +1,8 @@
 0joseDark
 18KRedApple
+Alastrolabiya
 Ayokanmi-Adejola
+BdgTekno
 CallumGA
 ChanithaAbey
 Cittykitten
@@ -37,10 +39,12 @@ bwetzel2016
 calebpanoch
 cfrBernard
 chmpX
+circleitdewa
 cod3r60
 codewithdhruba01
 d3v1sh
 diogocarrola
+dockerDep
 dustinsherwood
 entropymaxx
 gamemann
@@ -54,6 +58,7 @@ kyiroywops
 light-hat
 lucaboca82
 lucasqatech
+lytro-dev
 manman4
 marioproto92
 mbahomaid
