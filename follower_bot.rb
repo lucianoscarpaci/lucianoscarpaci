@@ -71,8 +71,12 @@ unfollowers.each do |user|
     basic_auth: { username: github_user, password: personal_github_token },
     headers: headers
   )
-  if response.code == 204
+  case response.code
+  when 204
     puts "Unfollowed #{user} (no longer following you)"
+    stored_followers.delete(user)
+  when 404
+    puts "User #{user} not found (probably deleted or already unfollowed)"
     stored_followers.delete(user)
   else
     puts "Error unfollowing #{user}: #{response.body}"
