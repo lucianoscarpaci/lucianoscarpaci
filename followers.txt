@@ -31,7 +31,6 @@ Top-Lead-Blockchain
 Uhuli
 Zer0-Bug
 ZygimantasB
-abderrahmane-laourf
 akash-tk
 akashreddy-ops
 alterante
