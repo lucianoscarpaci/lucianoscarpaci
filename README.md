@@ -18,9 +18,9 @@ What makes me unique is my curiosity and dedication. I see every project as an o
         <img alt="GitHub" title="lucianoscarpaci" src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://www.linkedin.com/in/lucianoscarpaci/">
         <img alt="LinkedIn" title="lucianoscarpaci" src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-    <a href="https://instagram.com/lucianoscarpa.ci">
-        <img alt="Instagram" title="lucianoscarpa.ci" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="lucianoscarpaci">
+    <a href="https://x.com/tauxsik">
+        <img alt="Twitter" title="lucianoscarpaci" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="tauxsik">
         <img alt="Discord" title="lucianoscarpaci" src="https://img.shields.io/badge/Discord-4E5D94?style=for-the-badge&logoColor=white"></a>
 </p>
 <h2>🗂️ Projects</h2>
