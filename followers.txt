@@ -52,6 +52,7 @@ d3v1sh
 diogocarrola
 dustinsherwood
 entropymaxx
+foregroundUser
 gamemann
 guevaraStian
 huzgrx
