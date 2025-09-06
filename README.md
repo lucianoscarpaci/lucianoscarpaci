@@ -3,7 +3,7 @@
 </p>
 <h3>📝 Bio</h3>
 <p>
-Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and CodePath, with experience in MITRE eCTF, US Cyber Games, CodePath, and hackathons through MLH
+Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and CodePath, with experience in MITRE eCTF, CodePath, and hackathons through MLH
 </p>
 <br>
 <h3>📫 Let’s connect!</h3>
