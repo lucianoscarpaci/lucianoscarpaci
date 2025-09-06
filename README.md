@@ -3,10 +3,7 @@
 </p>
 <h3>📝 Bio</h3>
 <p>
-Hi, I’m Luciano Scarpaci (Lu-chi-ia-no Scar-pace-i), a Master’s graduate in Computer Science from Florida Atlantic University.
-</p>
-<p>
-What makes me unique is my curiosity and dedication. I see every project as an opportunity to learn something new and create work I can be proud of. From conducting research to implementing real-world solutions, I enjoy turning ideas into reality. I’m currently looking for opportunities to grow, make an impact, and continue building things that truly matter.
+Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and CodePath, with experience in MITRE eCTF, US Cyber Games, CodePath, and hackathons through MLH
 </p>
 <br>
 <h3>📫 Let’s connect!</h3>
