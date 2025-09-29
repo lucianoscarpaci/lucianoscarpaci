@@ -127,6 +127,7 @@ motanelson
 murapadev
 mysticvikingr
 nafiul-afk
+neurox-io
 nfterrax
 nikhilij
 nikhilpatidar01
@@ -166,4 +167,3 @@ uhsr
 wdhive-user
 wei
 wetmet
-zentrix-x
