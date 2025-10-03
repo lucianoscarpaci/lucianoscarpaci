@@ -22,7 +22,7 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
 
 <h2>🏆 Hackathons and Events</h2>
 <ul>
-    <li>CodePath Capgemini HQ - San Francisco, CA</li>
+    <li>CodePath Capgemini - San Francisco, CA</li>
     <li>CodePath EES SF 2025 - San Francisco, CA</li>
     <li>MITRE eCTF 2025 - Boston, MA</li>     
     <li>MITRE eCTF 2024 - Boston, MA</li>
