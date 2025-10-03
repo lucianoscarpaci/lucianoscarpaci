@@ -22,10 +22,10 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
 
 <h2>🏆 Hackathons and Events</h2>
 <ul>
-    <li>CodePath EES SF 2025 in San Francisco</li>
-    <li>MLH Hackcon 2025 in New York</li>
-    <li>MLH 305 Hackathon in Miami - 1st Place Winner and Best Design Award</li>
-    <li>MLH Shell Hacks 2025 in Miami</li>
+    <li>CodePath EES SF 2025 in San Francisco CA</li>
+    <li>MLH Hackcon 2025 in New York NY</li>
+    <li>MLH 305 Hackathon in Miami FL - 1st Place Winner and Best Design Award</li>
+    <li>MLH Shell Hacks 2025 in Miami FL</li>
 </ul>
 
 <h2>📠 Languages and Tools </h2>
