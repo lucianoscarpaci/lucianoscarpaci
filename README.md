@@ -20,6 +20,14 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
 <h2>🗂️ Projects</h2>
 <a href="https://github.com/TAANVAS/Taanvas" target="_blank"><img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/7A0885FB-5293-4419-A48F-33B111F746DA-v2.png" alt="Project Screenshot 1" height="110px" width="110px" /></a><a href="https://github.com/bwetzel2016/Dog-App" target="_blank"><img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/4A4B4860-7810-4D84-9FB9-FE6F4CB4F9F8-v2.png" alt="Project Screenshot 2" height="110px" width="110px" /></a><a href="https://github.com/FAU-DYYP/DYYP-Repo" target="_blank"><img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/109C2647-18A3-46D1-8F1D-7609BFEC8832-v2.png" alt="Project Screenshot 3" height="110px" width="110px" /></a><a href="https://github.com/lucianoscarpaci/MAX78000FTHR" target="_blank"><img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/A51D8D28-3E64-480E-93EF-E211984F81A7-v2.png" alt="Project Screenshot 4" height="110px" width="110px" /></a><a href="https://github.com/lucianoscarpaci/reddit-v2020.4-tree-theme-" target="_blank"><img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/CD838CC5-D3E6-411D-9F83-B1DA608A31E7-v2.png" alt="Project Screenshot 5" height="110px" width="110px" /></a><a href="https://github.com/lucianoscarpaci/Space-Invaders-JS" target="_blank"><img src="https://raw.githubusercontent.com/lucianoscarpaci/lucianoscarpaci/main/Screenshots/05871659-7DAD-46F5-9C1D-4A78E2B8F561-v2.png" alt="Project Screenshot 6" height="110px" width="110px" /></a>
 
+<h2>🏆 Hackathons and Events</h2>
+<ul>
+    <li>CodePath EES SF 2025 in San Francisco</li>
+    <li>MLH Hackcon 2025 in New York</li>
+    <li>MLH 305 Hackathon in Miami Florida - 1st Place Winner and Best Design Award</li>
+    <li>MLH Shell Hacks 2025 in Miami Florida</li>
+</ul>
+
 <h2>📠 Languages and Tools </h2>
 <h3>💾 Programming and Software </h3>
 
