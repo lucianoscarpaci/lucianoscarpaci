@@ -22,10 +22,12 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
 
 <h2>🏆 Hackathons and Events</h2>
 <ul>
-    <li>CodePath EES SF 2025 in San Francisco CA</li>
-    <li>MLH Hackcon 2025 in New York NY</li>
-    <li>MLH 305 Hackathon in Miami FL - 1st Place Winner and Best Design Award</li>
-    <li>MLH Shell Hacks 2025 in Miami FL</li>
+    <li>CodePath EES SF 2025 - San Francisco, CA</li>
+    <li>MITRE eCTF 2025 - Boston, MA</li>     
+    <li>MITRE eCTF 2024 - Boston, MA</li>
+    <li>MLH Hackcon 2025 - New York, NY</li>
+    <li>MLH 305 Hackathon - Miami, FL</li>
+    <li>MLH Shell Hacks 2025 - Miami, FL</li>
 </ul>
 
 <h2>📠 Languages and Tools </h2>
@@ -123,7 +125,7 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
     </a>
     <br>
 </p>
-          
+
 
 <h2>🏅 Credly </h2>
 <h3>🏅 Badges earned </h3>
@@ -133,6 +135,7 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
 [![Advanced Deep Learning Specialist](https://images.credly.com/size/110x110/images/3e91c6f6-1d05-4b40-9005-4344e35edaff/Coursera_20Advanced_20Deep_20Learning_20Specialist.png)](http://www.credly.com/badges/f71080ea-a607-4c2e-82a6-040458f6e0d2 "Advanced Deep Learning Specialist")
 [![Introduction to Neural Networks with PyTorch](https://images.credly.com/size/110x110/images/335a694d-1fc4-4c83-a467-f140862a0a1e/Coursera_20Introduction_20to_20Neural_20Networks_20with_20PyTorch.png)](http://www.credly.com/badges/f7dff4d7-fa47-4ff8-bba0-2044f1643feb "Introduction to Neural Networks with PyTorch")
 [![IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate](https://images.credly.com/size/110x110/images/973d7ca2-c74e-4f2c-8be8-80b32bbe18f3/Coursera_20IBM_20Deep_20Learning_20with_20PyTorch_20Keras_20and_20Tensorflow_20Prof_20Cert.png)](http://www.credly.com/badges/c27ff6fd-97ea-431c-b1bc-2d096d7d8bd7 "IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate")
+
 <!--END_SECTION:badges-->
 <h2>🏆 Certificates </h2>
 <h3>⭐️ Certificates earned </h3>
