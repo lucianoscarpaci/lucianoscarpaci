@@ -158,7 +158,6 @@ sphinxzerd
 standardgalactic
 submitaitools
 sungeer
-synCodx
 tech4xstar
 thisalireza
 thornebaker
