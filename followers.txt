@@ -32,6 +32,7 @@ HasmikSarg
 HectorDanielAyarachiFuentes
 HelluvaBossAndHazbinHotel
 IDouble
+IamDevDan
 Imtiaz513
 JawherKl
 JohnMwendwa
@@ -176,7 +177,6 @@ raptr45
 raufurislam
 riseansmal
 rstar327
-rushprotocol
 sabbir-noyon
 seehiong
 sergio-matos-tech
