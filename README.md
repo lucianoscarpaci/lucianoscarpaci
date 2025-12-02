@@ -119,7 +119,7 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
         <img alt="Arduino docs" title="Arduino docs" src="https://custom-icon-badges.demolab.com/badge/-Arduino-00979D?style=for-the-badge&logoColor=white&logo=arduino"/></a>
 </p>
 <p>
-    <a href="https://lucianoscarpa.ci">
+    <a href="https://github-readme-stats-luciano-scarpacis-projects.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=16&theme=dracula&custom_title=🔝🌐📊%20Top%20Languages&hide=jupyter%20notebook,html,cpp">
         <img alt="Top Languages" title="Top Languages" src="https://github-readme-stats-luciano-scarpacis-projects.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=16&theme=dracula&custom_title=🔝🌐📊%20Top%20Languages&hide=jupyter%20notebook,html,cpp"/></a>
 <br>
 </p>
