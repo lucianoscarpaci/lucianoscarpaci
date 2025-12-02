@@ -121,6 +121,8 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
 <p>
     <a href="https://github-readme-stats-luciano-scarpacis-projects.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=16&theme=dracula&custom_title=🔝🌐📊%20Top%20Languages&hide=jupyter%20notebook,html,cpp">
         <img alt="Top Languages" title="Top Languages" src="https://github-readme-stats-luciano-scarpacis-projects.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=16&theme=dracula&custom_title=🔝🌐📊%20Top%20Languages&hide=jupyter%20notebook,html,cpp"/></a>
+    <a href="https://lucianoscarpa.ci/">
+        <img alt="Streak Stats" title="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=lucianoscarpaci&theme=dracula&hide_border=true&cache_seconds=1"></a>
 <br>
 </p>
 ![GitHub Stats](https://github-readme-stats-luciano-scarpacis-projects.vercel.app/api?username=lucianoscarpaci&show_icons=true&hide=prs,contribs&show=issues&card_width=138&theme=dracula&custom_title=📊%20GitHub%20Stats&include_all_commits=true&rank_icon=github&count_private=true&ring_color=282a36)
