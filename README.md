@@ -118,13 +118,9 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
     <a href="https://www.arduino.cc/reference/en/">
         <img alt="Arduino docs" title="Arduino docs" src="https://custom-icon-badges.demolab.com/badge/-Arduino-00979D?style=for-the-badge&logoColor=white&logo=arduino"/></a>
 </p>
-<p align=center>
-    <img height="180em" src="https://github-readme-stats-luciano-scarpacis-projects.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=16&theme=dracula&custom_title=🔝🌐📊%20Top%20Languages&hide=jupyter%20notebook,html,cpp" style="max-width: 100%;" />
-    <img height="180em" src="https://github-readme-stats-luciano-scarpacis-projects.vercel.app/api?username=lucianoscarpaci&show_icons=true&hide=prs,contribs&show=issues&card_width=138&theme=dracula&custom_title=📊%20GitHub%20Stats&include_all_commits=true&rank_icon=github&count_private=true&ring_color=282a36"
-    style="max-width: 100%;" />
-    <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=lucianoscarpaci&theme=dracula&hide_border=true&cache_seconds=1" style="max-width: 100%;" />
-    <br>
-</p>
+![Top Languages](https://github-readme-stats-luciano-scarpacis-projects.vercel.app/api/top-langs/?username=lucianoscarpaci&layout=compact&langs_count=16&theme=dracula&custom_title=🔝🌐📊%20Top%20Languages&hide=jupyter%20notebook,html,cpp)
+![GitHub Stats](https://github-readme-stats-luciano-scarpacis-projects.vercel.app/api?username=lucianoscarpaci&show_icons=true&hide=prs,contribs&show=issues&card_width=138&theme=dracula&custom_title=📊%20GitHub%20Stats&include_all_commits=true&rank_icon=github&count_private=true&ring_color=282a36)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=lucianoscarpaci&theme=dracula&hide_border=true&cache_seconds=1)
 
 
 <h2>🏅 Credly </h2>
