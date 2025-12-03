@@ -124,8 +124,8 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
     <br>
     <a>
         <img alt="GitHub Stats" title="GitHub Stats" src="https://github-readme-stats-luciano-scarpacis-projects.vercel.app/api?username=lucianoscarpaci&show_icons=true&hide=prs,contribs&show=issues&card_width=138&theme=dracula&custom_title=%F0%9F%93%8A%20GitHub%20Stats&include_all_commits=true&rank_icon=github&count_private=true&ring_color=282a36"></a>
-    <a href="https://lucianoscarpa.ci/">
-        <img alt="Streak Stats" title="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=lucianoscarpaci&theme=dracula&hide_border=true&cache_seconds=1"></a>
+    <a>
+        <img alt="Streak Stats" title="Streak Stats" src="https://github-readme-streak-stats-git-main-luciano-scarpacis-projects.vercel.app/?user=lucianoscarpaci&theme=dracula&hide_border=true&cache_seconds=1"></a>
 </p>
 
 <h2>🏅 Credly </h2>
