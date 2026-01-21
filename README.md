@@ -29,7 +29,7 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
 ![MLH Hackcon](https://img.shields.io/badge/MLH-Hackcon%202025%20%7C%20NYC-F8B500?style=flat)
 ![MLH 305](https://img.shields.io/badge/MLH-305%20Hackathon%20%7C%20Miami-FF007F?style=flat)
 ![MLH Shell Hacks](https://img.shields.io/badge/MLH-Shell%20Hacks%202025%20%7C%20Miami-FF4742?style=flat)
-![MLH Knight Hacks](https://img.shields.io/badge/MLH-Knight%20Hacks%202024%20%7C%20Orlando-6F42C1?style=flat)
+![MLH Knight Hacks VIII](https://img.shields.io/badge/MLH-Knight%20Hacks%20VIII%20%7C%20Orlando-6F42C1?style=flat)
 ![MLH HackJam 2025](https://img.shields.io/badge/MLH-HackJam%202025%20%7C%20Tampa-1DA1F2?style=flat)
 
 <h2>📠 Languages and Tools </h2>
