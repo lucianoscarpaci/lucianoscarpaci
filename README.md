@@ -22,15 +22,15 @@ Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and C
 
 <h2>🏆 Hackathons and Events</h2>
 
-![CodePath Capgemini](https://img.shields.io/badge/CodePath-Capgemini%20%7C%20San%20Francisco-0070AD?style=flat)
-![CodePath EES](https://img.shields.io/badge/CodePath-EES%20SF%202025%20%7C%20San%20Francisco-2EA44F?style=flat)
-![MITRE 2025](https://img.shields.io/badge/MITRE-eCTF%202025%20%7C%20Boston-005B94?style=flat)
-![MITRE 2024](https://img.shields.io/badge/MITRE-eCTF%202024%20%7C%20Boston-4B0082?style=flat)
-![MLH Hackcon](https://img.shields.io/badge/MLH-Hackcon%202025%20%7C%20NYC-F8B500?style=flat)
-![MLH 305](https://img.shields.io/badge/MLH-305%20Hackathon%20%7C%20Miami-FF007F?style=flat)
-![MLH SharkByte](https://img.shields.io/badge/MLH-SharkByte%202025%20%7C%20Miami-00CED1?style=flat)
-![MLH Shell Hacks](https://img.shields.io/badge/MLH-Shell%20Hacks%202025%20%7C%20Miami-FF4742?style=flat)
-![MLH Knight Hacks VIII](https://img.shields.io/badge/MLH-Knight%20Hacks%20VIII%20%7C%20Orlando-6F42C1?style=flat)
+🔵![CodePath Capgemini](https://img.shields.io/badge/CodePath-Capgemini%20%7C%20San%20Francisco-0070AD?style=flat)🟢
+![CodePath EES](https://img.shields.io/badge/CodePath-EES%20SF%202025%20%7C%20San%20Francisco-2EA44F?style=flat)⚫️
+![MITRE 2025](https://img.shields.io/badge/MITRE-eCTF%202025%20%7C%20Boston-005B94?style=flat)🟣
+![MITRE 2024](https://img.shields.io/badge/MITRE-eCTF%202024%20%7C%20Boston-4B0082?style=flat)🟡
+![MLH Hackcon](https://img.shields.io/badge/MLH-Hackcon%202025%20%7C%20NYC-F8B500?style=flat)🔴
+![MLH 305](https://img.shields.io/badge/MLH-305%20Hackathon%20%7C%20Miami-FF007F?style=flat)⚪️
+![MLH SharkByte](https://img.shields.io/badge/MLH-SharkByte%202025%20%7C%20Miami-00CED1?style=flat)🟠
+![MLH Shell Hacks](https://img.shields.io/badge/MLH-Shell%20Hacks%202025%20%7C%20Miami-FF4742?style=flat)🟣
+![MLH Knight Hacks VIII](https://img.shields.io/badge/MLH-Knight%20Hacks%20VIII%20%7C%20Orlando-6F42C1?style=flat)⚪️
 ![MLH HackJam 2025](https://img.shields.io/badge/MLH-HackJam%202025%20%7C%20Tampa-1DA1F2?style=flat)
 
 <h2>📠 Languages and Tools </h2>
