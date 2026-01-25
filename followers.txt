@@ -166,6 +166,7 @@ insonis12
 ivasik-k7
 jackciw
 jahabe
+jdrhnye
 jelspace
 jfullstackdev
 joebertcerezo
@@ -268,5 +269,4 @@ wei
 weiquan98
 wetmet
 xcontcom
-xryutaro
 zombietfk
