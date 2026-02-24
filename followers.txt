@@ -1,5 +1,4 @@
 0Darkn
-0x2SDAY
 0xmurtimus
 0xspryo
 18KBlueApple
@@ -191,6 +190,7 @@ jaydev787748
 jelspace
 jfullstackdev
 joebertcerezo
+johnadamsx
 jrohitofficial
 juicetreacly
 kenjinote
