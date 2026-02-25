@@ -83,6 +83,7 @@ MuratKomurcu1
 NazmusSayad
 NovaNoodle7
 OHANA-WEB
+ParanoidBull
 PeetlaMahesh123
 Pro-Mousa
 REIJISAKAMAKI
@@ -189,7 +190,6 @@ iousuz
 ivasik-k7
 jackciw
 jahabe
-jaydev787748
 jelspace
 jfullstackdev
 joebertcerezo
@@ -277,7 +277,6 @@ sphinxzerd
 standardgalactic
 submitaitools
 sunjoe508
-syaharip005
 szenled
 tech4xstar
 techspire0924
