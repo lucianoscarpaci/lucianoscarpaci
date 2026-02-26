@@ -102,7 +102,6 @@ SolidityX-X
 T4sneem-Shah66
 TERRIBLETHINGS
 Tahmid-kibria
-Uhuli
 Utopian88
 VenancioFuentes
 VishnuCheruvakkara
@@ -205,6 +204,7 @@ laimonas2g
 laurindoisaac
 light-yagamix
 lilbodo13
+locfaker
 logiica
 lorde-enigma
 lovehiccup
