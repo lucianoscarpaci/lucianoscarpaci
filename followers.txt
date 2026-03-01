@@ -145,7 +145,6 @@ budaivisita
 bwetzel2016
 byxbe
 calebpanoch
-caryfles
 cerenyilmazjinx
 cfrBernard
 cgrundman
@@ -321,7 +320,6 @@ web2and3
 wecoded-dev
 wei
 weiquan98
-weirdlone
 wenteris
 wetmet
 xcontcom
