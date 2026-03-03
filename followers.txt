@@ -142,6 +142,7 @@ budaivisita
 bwetzel2016
 byxbe
 calebpanoch
+cecilcroc
 cerenyilmazjinx
 cfrBernard
 cgrundman
@@ -194,10 +195,12 @@ ivasik-k7
 jackciw
 jackoye
 jahabe
+janemarks
 jaydev787748
 jebsyns
 jelspace
 jfullstackdev
+joaocarpim
 joebertcerezo
 jrohitofficial
 juicetreacly
