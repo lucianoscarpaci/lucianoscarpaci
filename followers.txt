@@ -127,6 +127,7 @@ amad3i
 ami-l-s
 anmp75
 anshull-rajput
+anthropicss
 aridepai17
 aryazoormand
 asadi18
@@ -154,7 +155,6 @@ cod3r60
 codebyhuman
 codewithdhruba01
 codiiman
-coollmathgames
 cryptochrs
 dbunt1tled
 destroy-boys
