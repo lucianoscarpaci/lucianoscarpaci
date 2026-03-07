@@ -128,7 +128,6 @@ amad3i
 ami-l-s
 anmp75
 anshull-rajput
-anthropicss
 aridepai17
 aryazoormand
 asadi18
@@ -151,6 +150,7 @@ cgrundman
 chahe-dridi
 chatman-media
 chmpX
+chriswendlers
 chwso0u
 cod3r60
 codebyhuman
