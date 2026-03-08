@@ -157,6 +157,7 @@ cod3r60
 codebyhuman
 codewithdhruba01
 codiiman
+cryptoAur4x
 cryptochrs
 dbunt1tled
 deficrypton
@@ -326,7 +327,6 @@ web2and3
 wecoded-dev
 wei
 weiquan98
-wenteris
 wetmet
 xaviersins
 xcontcom
