@@ -216,7 +216,6 @@ khloudcode
 kitz-ai
 knoxryder323
 kyiroywops
-kylemank
 laimonas2g
 laurindoisaac
 light-yagamix
@@ -324,6 +323,7 @@ wecoded-dev
 wei
 weiquan98
 wetmet
+whiteplaine
 xaviersins
 xcontcom
 xenawitch
