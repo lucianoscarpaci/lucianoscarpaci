@@ -149,7 +149,6 @@ cgrundman
 chahe-dridi
 chatman-media
 chmpX
-chriswendlers
 chwso0u
 cod3r60
 codebyhuman
@@ -272,6 +271,7 @@ pgsohail
 phil1px
 phntmzn
 pouryaPKGit
+pumpbots
 pwnedroot
 ragibalasad
 rasidi3112
