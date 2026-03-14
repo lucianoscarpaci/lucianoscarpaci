@@ -88,12 +88,14 @@ NazmusSayad
 NovaNoodle7
 Nuuriii
 OHANA-WEB
+PaulConnyngham
 PeetlaMahesh123
 Pro-Mousa
 REIJISAKAMAKI
 RafalW3bCraft
 Raquel-Fernandez
 Ronaldo45rt
+Rosiepaul
 S-Rabbit81
 S-rahmanKaium
 S4IL21
@@ -269,7 +271,6 @@ pgsohail
 phil1px
 phntmzn
 pouryaPKGit
-pumpbots
 pwnedroot
 rasidi3112
 raufurislam
@@ -293,7 +294,6 @@ soaebhasan12
 soham-patil-tech
 soukainaelhafif
 sphinxzerd
-spilkster
 standardgalactic
 submitaitools
 sunjoe508
