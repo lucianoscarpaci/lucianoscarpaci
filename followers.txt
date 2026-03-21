@@ -2,7 +2,6 @@
 0xmurtimus
 0xspryo
 18KBlueApple
-18KEagle
 1minds3t
 Abdellahsyani
 AdeptAILabs
@@ -179,6 +178,7 @@ foregroundUser
 frangelbarrera
 fredlynsy
 fusiondev117-boop
+futuredigitalplus
 fuwifur
 galaxyb-dark
 gamemann
