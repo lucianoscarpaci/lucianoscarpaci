@@ -188,7 +188,6 @@ grace2riku
 guevaraStian
 gyurioka
 hasan4224
-hessingularity
 iamapuneet
 igamezgamble
 igorczechak221
@@ -209,6 +208,7 @@ jfullstackdev
 joaocarpim
 joebertcerezo
 joehanchi
+josephdvivviano
 jrohitofficial
 juanforde
 juicetreacly
