@@ -21,7 +21,6 @@ CallumGA
 Carrington-dev
 CelaDaniel
 CelaFlori
-CharlieStephensNY
 Connor9994
 DIMFLIX
 Dass23M
@@ -40,7 +39,6 @@ Ferdaoues-Awechri
 FrMahon
 Fredhusne
 GoXLd
-Gorotet
 Guy-Lay
 Hajjouz
 Hantan1080
@@ -137,14 +135,12 @@ ay0788
 bacteriaaa
 bestrace103
 betancurn
-biyachio
 bocaletto-luca
 bolola777
 budaivisita
 bwetzel2016
 byxbe
 calebpanoch
-cecilcroc
 cerenyilmazjinx
 cfrBernard
 cgrundman
@@ -160,11 +156,9 @@ codiiman
 cryptoAur4x
 cryptochrs
 cyan0-3
-davidtoyle
 dbunt1tled
 deficrypton
 destroy-boys
-dionvolta
 double-k-3033
 dustinsherwood
 eatsky1006
@@ -173,7 +167,6 @@ emilycodestar
 engrshuvodas
 entropymaxx
 ephmo
-ercwl
 erik-yield
 fdumary
 flameastro
@@ -188,7 +181,6 @@ gaqx
 ggongg
 grace2riku
 guevaraStian
-gyurioka
 hasan4224
 iamapuneet
 igamezgamble
@@ -201,7 +193,6 @@ ivasik-k7
 jackciw
 jahabe
 jamesnovus
-janemarks
 jayDevCodes
 jeffyonk
 jelspace
@@ -209,14 +200,9 @@ jeniflery
 jfullstackdev
 joaocarpim
 joebertcerezo
-joehanchi
-joehubers
 jrohitofficial
-juanforde
 juicetreacly
-juleiyuh
 kenjinote
-keydotfi
 kh-mahmoud
 khloudcode
 kyiroywops
@@ -225,7 +211,6 @@ laimonas2g
 laurindoisaac
 light-yagamix
 lilbodo13
-lokitore
 lorde-enigma
 loreius
 lovehiccup
@@ -233,8 +218,6 @@ lucaboca82
 lucasdcg
 luckchain777
 ludo53
-lukestoik
-lunehorb
 lxRbckl
 lytro-dev
 m-bwela
@@ -247,7 +230,6 @@ michaeIaftonn
 mindstar0209
 minouou
 miracleflow
-moereira
 moh-333
 mohammadabdullaazziz
 mohammadhasanii
@@ -267,8 +249,6 @@ nikhilij
 nikhilpatidar01
 nimakian
 notdenethsahil
-nueryn
-nuychen
 nykoco
 oliviawilson2003
 oluiscabral
@@ -294,7 +274,6 @@ rstar327
 sabbir-noyon
 scrt8wonder
 seehiong
-senamorde
 sergio-matos-tech
 serhatbula
 sezindartar
@@ -312,7 +291,6 @@ sunjoe508
 szenled
 tech4xstar
 techspire0924
-tenrukayaba
 tetref
 th3noryx
 thaoluon
@@ -325,10 +303,7 @@ uhsr
 vardan444
 vasilirigels
 vegata099
-venyholte
 vimal0156
-vineyuka
-viviwister
 wdhive-user
 web2and3
 wecoded-dev
@@ -336,15 +311,8 @@ wei
 weiquan98
 wetmet
 whiteplaine
-xaviersins
 xcontcom
-xenawitch
-yakinosy
 ye231101
-yobecroc
-yumeaika
-yuvisevia
 zeniofia
 zkcryptweb
 zombietfk
-zorktys
