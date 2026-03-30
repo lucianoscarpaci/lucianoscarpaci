@@ -3,7 +3,6 @@
 0xspryo
 1minds3t
 Abdellahsyani
-AdeptAILabs
 Alitindrawan24
 AmirhosseinHonardoust
 An4Dev
@@ -200,6 +199,7 @@ joebertcerezo
 jrohitofficial
 juicetreacly
 kenjinote
+kenjiwizard
 kh-mahmoud
 khloudcode
 kyiroywops
