@@ -129,6 +129,7 @@ amazing-soft-dev
 ami-l-s
 anaClarissi
 anmp75
+aratiprabhakar
 arch-yunus
 aridepai17
 aryazoormand
@@ -192,7 +193,6 @@ iousuz
 ivasik-k7
 jackciw
 jahabe
-jamesnovus
 jayDevCodes
 jeffyonk
 jelspace
