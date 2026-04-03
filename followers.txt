@@ -196,7 +196,6 @@ ivasik-k7
 jackciw
 jahabe
 jayDevCodes
-jeffyonk
 jelspace
 jeniflery
 jfullstackdev
@@ -251,6 +250,7 @@ nikhilij
 nikhilpatidar01
 nimakian
 notdenethsahil
+notlhw
 nykoco
 oliviawilson2003
 oluiscabral
