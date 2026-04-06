@@ -132,7 +132,6 @@ amazing-soft-dev
 ami-l-s
 anaClarissi
 anmp75
-aratiprabhakar
 arch-yunus
 aridepai17
 aryazoormand
@@ -250,6 +249,7 @@ nikhilij
 nikhilpatidar01
 nimakian
 notdenethsahil
+novacto
 nykoco
 oliviawilson2003
 oluiscabral
