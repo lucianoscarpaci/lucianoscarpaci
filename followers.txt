@@ -3,6 +3,7 @@
 0xmurtimus
 0xspryo
 1minds3t
+AYorbach
 Abdellahsyani
 Alitindrawan24
 AmirhosseinHonardoust
@@ -125,7 +126,6 @@ akash-tk
 akashreddy-ops
 alc0hol120
 alexanderbergerhd
-alexmasnada
 alterante
 amad3i
 amazing-soft-dev
