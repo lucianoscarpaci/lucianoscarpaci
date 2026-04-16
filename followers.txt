@@ -126,6 +126,7 @@ akash-tk
 akashreddy-ops
 alc0hol120
 alexanderbergerhd
+alexqhong
 alterante
 amad3i
 amazing-soft-dev
@@ -254,7 +255,6 @@ pawerrx
 peanutsx50
 peter279k
 peterruler
-pfungg
 pgsohail
 phil1px
 phntmzn
