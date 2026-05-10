@@ -212,7 +212,6 @@ jelspace
 jfullstackdev
 joaocarpim
 joebertcerezo
-jovbcorreia
 jrohitofficial
 juicetreacly
 kakaka-byte
