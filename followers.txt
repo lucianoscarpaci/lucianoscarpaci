@@ -173,6 +173,7 @@ dataxwalker
 dbunt1tled
 destroy-boys
 dhanifrahman
+dovas-net
 dustinsherwood
 eatsky1006
 emilycodestar
@@ -210,6 +211,7 @@ jackweirds
 jahabe
 jelspace
 jfullstackdev
+jkdevcode
 joaocarpim
 joebertcerezo
 jrohitofficial
