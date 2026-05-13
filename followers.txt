@@ -131,6 +131,7 @@ abdelwaleed
 abolfazl-shadrouh
 abressiddique
 abrshDev
+adindazu
 aertsimon90
 akash-tk
 akashreddy-ops
@@ -205,6 +206,7 @@ guevaraStian
 hanyvert
 hasan4224
 hazexone
+hestiyak
 hidariako
 iamagoodboy1234
 iamapuneet
@@ -219,6 +221,8 @@ jackciw
 jackweirds
 jaderytm
 jahabe
+jakerother
+jamesgeodi
 jelspace
 jfullstackdev
 jkdevcode
@@ -276,6 +280,7 @@ nikhilpatidar01
 nimakian
 notdenethsahil
 nykoco
+olienath
 oliviawilson2003
 oluiscabral
 otaviossousa
@@ -333,6 +338,7 @@ vasilirigels
 vegata099
 vierystein
 vimal0156
+viraweitse
 wdhive-user
 web2and3
 wecoded-dev
@@ -344,8 +350,12 @@ whitetriada
 xcontcom
 ye231101
 yinglantan
+yolenatch
+yupyanyo
 yutomiwana
 zeniofia
 zha0090
 zkcryptweb
 zombietfk
+zowilyhter
+zunelyat
