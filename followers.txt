@@ -140,7 +140,6 @@ akash-tk
 akashreddy-ops
 alexanderbergerhd
 alexanderdfox
-alexqhong
 alterante
 amad3i
 ami-l-s
@@ -208,6 +207,7 @@ giewan
 grace2riku
 guevaraStian
 hanyvert
+haochezh
 hasan4224
 hazexone
 hestiyak
