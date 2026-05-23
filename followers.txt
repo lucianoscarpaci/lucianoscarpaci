@@ -136,6 +136,7 @@ akash-tk
 akashreddy-ops
 alexanderbergerhd
 alexanderdfox
+alexndrabarnes
 alterante
 amad3i
 ami-l-s
@@ -355,7 +356,6 @@ whiteplaine
 whitetriada
 xcontcom
 ye231101
-yinglantan
 yolenatch
 yupyanyo
 yutomiwana
