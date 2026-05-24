@@ -20,6 +20,7 @@ Bifenzine
 COUNTRY-HUMANS
 CallumGA
 Carrington-dev
+CasinoCoinUSDC
 CelaDaniel
 CelaFlori
 CharlesCreativeContent
@@ -223,7 +224,6 @@ jaderytm
 jahabe
 jakerother
 jamesgeodi
-jaysolana
 jelspace
 jfullstackdev
 jkdevcode
