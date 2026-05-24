@@ -3,7 +3,6 @@
 0xspryo
 1minds3t
 Abdellahsyani
-AdmAkbar
 AhmedDabish
 Alexjohn2023
 Alitindrawan24
@@ -224,6 +223,7 @@ jaderytm
 jahabe
 jakerother
 jamesgeodi
+jaysolana
 jelspace
 jfullstackdev
 jkdevcode
