@@ -134,6 +134,7 @@ adindazu
 aertsimon90
 akash-tk
 akashreddy-ops
+akrosmoke
 alexanderbergerhd
 alexanderdfox
 alexndrabarnes
@@ -165,7 +166,6 @@ cgrundman
 chahe-dridi
 chatman-media
 chelseatalexandre
-cheppethedev
 chmpX
 chojuninengu
 cod3r60
