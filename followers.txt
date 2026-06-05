@@ -132,7 +132,6 @@ abdelwaleed
 abolfazl-shadrouh
 abressiddique
 abrshDev
-adindazu
 aertsimon90
 akash-tk
 akashreddy-ops
@@ -208,8 +207,6 @@ hanyvert
 haochezh
 hasan4224
 hazexone
-hestiyak
-hidariako
 iamagoodboy1234
 iamapuneet
 igorczechak221
@@ -223,13 +220,13 @@ jackciw
 jackweirds
 jaderytm
 jahabe
-jakerother
 jamesgeodi
 jelspace
 jfullstackdev
 jkdevcode
 joaocarpim
 joebertcerezo
+jolliesol
 juicetreacly
 justinT-uH
 kaizen12219
@@ -360,7 +357,6 @@ whiteplaine
 whitetriada
 xcontcom
 ye231101
-yolenatch
 yuto-kazuma
 yutomiwana
 zeniofia
