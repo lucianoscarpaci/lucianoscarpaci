@@ -191,7 +191,6 @@ flameastro
 flaviopavim
 foregroundUser
 frangelbarrera
-fusiondev117-boop
 futuredigitalplus
 fuwifur
 galaxyb-dark
@@ -237,7 +236,6 @@ kh-mahmoud
 khloudcode
 kirankumark-sec
 kyiroywops
-kylehyne
 l0ve-hate
 laurindoisaac
 light-yagamix
@@ -320,6 +318,7 @@ shreekanthashokg-lang
 siddharth277
 sinha-19
 soaebhasan12
+sobsobsober
 soukainaelhafif
 sphinxzerd
 standardgalactic
