@@ -3,7 +3,7 @@
 </p>
 <h3>📝 Bio</h3>
 <p>
-Software Engineer with an MS in CS from FAU, recognized by the CEOs of MLH and CodePath, with experience in MITRE eCTF, CodePath, and hackathons through MLH
+Software Engineer with an MS in Computer Science from Florida Atlantic University and experience contributing to GitLab's open-source platform through CodePath's AI Corps program. Skilled in Ruby on Rails, JavaScript, Python, CI/CD workflows, and debugging large-scale production systems. Passionate about developer tooling, open source, and AI-assisted software development.
 </p>
 <br>
 <h3>📫 Let’s connect!</h3>
