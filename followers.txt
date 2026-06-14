@@ -371,7 +371,6 @@ xcontcom
 xnovaxdev
 xrpcommunity
 ye231101
-yuto-kazuma
 yutomiwana
 zeniofia
 zha0090
