@@ -174,7 +174,6 @@ bwetzel2016
 bytemir
 byxbe
 calebpanoch
-canestein
 cerenyilmazjinx
 cfrBernard
 cgrundman
@@ -267,6 +266,7 @@ kynaderd
 l0ve-hate
 laurindoisaac
 lec320fd90d
+ledgerhubteam
 light-yagamix
 lilbodo123
 lokiwyler
@@ -355,6 +355,7 @@ sezindartar
 shafiul94l
 shahima02
 shahriar0999
+shamkuei
 shreekanthashokg-lang
 siddharth277
 sinha-19
