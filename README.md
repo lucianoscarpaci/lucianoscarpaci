@@ -40,9 +40,10 @@ Software Engineer with an MS in Computer Science from Florida Atlantic Universit
     <br>
 </p>
 
-<h2> GitLab </h2>
-<h3> Contributions </h3>
+## GitLab
+### Contributions
 [![GitLab Contributor Stats](https://contributors.gitlab.com/users/lucianoscarpaci/banner.svg)](https://contributors.gitlab.com/users/lucianoscarpaci)
+
 <h2>🏆 Certificates </h2>
 <h3>⭐️ Certificates earned </h3>
 <p align="left">
